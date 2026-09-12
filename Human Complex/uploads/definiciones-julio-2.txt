@@ -1,0 +1,320 @@
+Módulo: Definiciones del Modelo ORIGINS
+Ubicación dentro de la plataforma: Este módulo deberá incorporarse después de la pantalla de Contexto y antes de las Instrucciones del cuestionario.
+El objetivo de esta sección es que el usuario conozca de manera sencilla qué evalúa ORIGINS y cuál es el significado de cada Pilar y de cada Esfera antes de responder la evaluación.
+Forma de presentación
+Cada Pilar funcionará como una tarjeta independiente que el usuario podrá seleccionar.
+La recomendación es utilizar tarjetas expandibles (acordeón), ya que permiten mostrar la información de forma organizada sin saturar visualmente la pantalla.
+Cada tarjeta / recuadro, deberá contener el siguiente orden de información:
+1. Nombre del Pilar
+Ejemplo: Pilar 1. Mi Base
+2. Definición del Pilar
+Mostrar la definición general del Pilar.
+Este contenido deberá permanecer visible al expandir la tarjeta.
+3. ¿Cómo se refleja en tu vida?
+Debajo de la definición deberá mostrarse el apartado:
+¿Cómo se refleja en tu vida??
+Aquí se presentará la explicación práctica correspondiente al Pilar.
+Este apartado ayuda al usuario a comprender cómo se refleja ese Pilar en su vida cotidiana.
+4. Esferas que integran el Pilar
+Al finalizar la explicación práctica, deberán aparecer las esferas que pertenecen a ese Pilar.
+Las esferas se mostrarán como una lista sencilla.
+Ejemplo: Este Pilar está integrado por:
+• Autoconocimiento
+• Regulación Emocional
+• Bienestar Físico
+5. Definición de cada Esfera
+Cada nombre de la esfera deberá funcionar como un elemento desplegable.
+Al seleccionar una esfera, únicamente se expandirá esa información debajo de su nombre.
+La estructura será:
+Autoconocimiento ▼
+Al expandirse mostrará:
+Definición: (texto)
+Descripción práctica: (texto)
+No será necesario abrir una nueva pantalla.
+Todo ocurrirá dentro de la misma tarjeta del Pilar.
+Navegación sugerida
+El usuario visualizará los cuatro pilares uno debajo del otro.
+Pilar 1
+Mi Base
+▼
+Pilar 2
+Mi Propósito
+▼
+Pilar 3
+Mi Conexión
+▼
+Pilar 4
+Mi Impacto
+▼
+Cada Pilar podrá expandirse o contraerse de manera independiente.
+Al finalizar las definiciones.
+Cuando el usuario llegue al final del cuarto Pilar deberá visualizar un botón de continuidad.
+Ejemplo: Ya conoces los pilares que conforman ORIGINS.
+En la siguiente sección responderás un cuestionario que permitirá identificar tu nivel de desarrollo en cada uno de ellos.
+Botón
+Continuar al cuestionario
+CONTENIDO: DEFINICIONES
+Pilar 1 - Mi Base
+Definición
+¿Cómo se refleja en tu vida?
+Es el cimiento físico, mental y emocional que sostiene todas tus acciones en cualquier situación. Integra pensamiento claro, estabilidad emocional y energía corporal constante para que puedas actuar con coherencia, incluso en momentos difíciles o de crisis.
+Es la base sobre la que se apoyan todas tus acciones diarias. Cuando esta base es sólida, puedes pensar con claridad incluso bajo mucha presión, manejar emociones intensas sin perder el control y mantener energía estable durante el día. Si esta base es débil, los planes se caen, las relaciones se desgastan y el trabajo se vuelve más difícil. Cuando está bien construida, puedes enfrentar imprevistos, conflictos o cargas de trabajo altas sin perder estabilidad ni rendimiento.
+Esfera
+Definición y descripción práctica
+Autoconocimiento
+Definición: Conocerte profundamente para actuar con una claridad interna real.Descripción práctica: Sabes identificar qué estás pensando, sintiendo y por qué reaccionas de cierta manera. Reconoces los patrones de comportamiento que te generan problemas repetidos. Aceptas tus fortalezas con naturalidad y trabajas en tus debilidades con objetividad. Incluso en situaciones de presión, puedes mantener la mente clara y cumplir los compromisos que haces contigo mismo.
+No reaccionas por impulso. Actúas con consciencia y claridad.​
+Regulación Emocional
+Definición: Capacidad de gestionar conscientemente tus emociones y reacciones.Descripción práctica: Antes de reaccionar ante un impulso fuerte, haces una pausa y eliges cómo responder. Reconoces tus errores y asumes responsabilidad sin culpar a otros. Puedes expresar desacuerdos sin romper relaciones. También detectas tensiones emocionales antes de que exploten y recuperas el equilibrio después de momentos difíciles.
+Manejas tus emociones sin que ellas controlen tu comportamiento.
+Bienestar Físico
+Definición: Cuidado integral del cuerpo como fuente de energía para la vida.Descripción práctica: Prestas atención a las señales tempranas de tu cuerpo antes de que aparezcan problemas mayores. Buscas mantener una alimentación, descanso y movimiento que apoyen la vida que quieres vivir. Estableces límites físicos saludables y sabes diferenciar entre cansancio normal y agotamiento profundo.
+Mantienes energía constante para las cosas que realmente son importantes.
+Pilar 2 - Mi Propósito
+Definición
+¿Cómo se refleja en tu vida?
+Dirección vital clara y operativa que transforma ideas generales en acciones diarias concretas. Une claridad de rumbo, disciplina autónoma y conexión con impactos más amplios que tú mismo, generando ventaja competitiva sostenida.
+Es tu GPS interno que evita que vivas a la deriva. Te da claridad exacta de hacia dónde vas, disciplina para cumplirte a ti mismo sin que nadie te vigile, y visión para conectar tus decisiones diarias con familia, equipo o comunidad. Resultado: cada día te acerca automáticamente a donde quieres estar realmente.
+Esfera
+Definición y descripción práctica
+Sentido de Vida
+Definición: Claridad sobre la dirección fundamental de tu vida.Descripción práctica: Tus acciones diarias se alinean con valores que son importantes para ti. Evitas vivir en piloto automático y tomas decisiones que reflejan lo que realmente quieres lograr. Tus metas nacen de convicciones personales y no solo de presiones externas.
+Cada día te acerca automáticamente a donde quieres estar.​
+Autónoma
+Definición: Capacidad de dirigir tu tiempo, tus decisiones y tu camino personal.Descripción práctica: Cumples los compromisos que haces contigo mismo sin necesidad de supervisión. Priorizas lo importante sobre lo urgente. Mantienes disciplina en hábitos clave y tomas decisiones de forma consciente. Cuando cambian las circunstancias, ajustas tus planes con rapidez.
+Eres dueño de tu tiempo y de tus decisiones.​
+Trascendencia
+Definición: Conexión consciente entre tus acciones y el impacto que generan en otras personas.Descripción práctica: Consideras cómo tus decisiones afectan a quienes te rodean. Reflexionas sobre el propósito más profundo de lo que haces y conectas tus metas personales con el bienestar de tu familia, tu equipo o tu comunidad. También estás dispuesto a cambiar ideas cuando encuentras evidencia que lo justifica.
+Tus decisiones generan impacto positivo más allá de ti mismo.
+Pilar 3 - Mi Conexión
+Definición
+¿Cómo se refleja en tu vida?
+Es el sistema de relaciones que integra la forma en que te relacionas contigo mismo y con los demás. Busca crear coherencia interna y vínculos externos sanos y funcionales.
+Representa tu capacidad para vivir en paz contigo mismo y construir relaciones sólidas con otras personas. Internamente te aceptas sin máscaras. Externamente generas confianza, te comunicas con claridad y puedes convivir con personas diferentes. Como resultado, construyes una red de apoyo estable y una autoestima equilibrada.
+Esfera
+Definición y descripción práctica
+Conexión Intrapersonal
+Definición: Relación equilibrada y constructiva contigo mismo.Descripción práctica: Te aceptas con tus virtudes y también con tus áreas de mejora. Mantienes un diálogo interno respetuoso incluso cuando cometes errores. Practicas empatía contigo mismo como lo harías con alguien cercano. También buscas que lo que haces en tu vida refleje quién eres realmente.
+Desarrollas paz interna, estabilidad emocional y autoestima sólida
+Conexión Extrapersonal
+Definición: Capacidad de construir relaciones significativas con otras personas.Descripción práctica: Construyes relaciones basadas en confianza y respeto mutuo. Sabes equilibrar hablar y escuchar. Puedes compartir ideas con seguridad en grupos y también escuchar perspectivas diferentes con apertura. Participas de manera auténtica y colaborativa.
+Creas una red sólida de apoyo, confianza y cooperación.
+Pilar 4 - Mi Impacto
+Definición
+¿Cómo se refleja en tu vida?
+Es la manera en que generas resultados reales que benefician a otras personas en tu trabajo, tu equipo o tu comunidad. Convierte tus habilidades personales en contribuciones concretas y útiles.
+Significa pasar de “saber hacer cosas” a “hacer que otros mejoren gracias a ti”. Buscas aportar más de lo esperado, asumes responsabilidad cuando algo falla, enfrentas problemas de forma directa y ayudas a otros a crecer. Las personas valoran tu presencia porque generas cambios reales y soluciones prácticas.
+Esfera
+Definición y descripción práctica
+Contribución
+Definición: Aportar más valor del que esperan de ti en cualquier situación.Descripción práctica: Buscas entregar resultados que superen lo mínimo requerido. Piensas en el beneficio del equipo completo y no solo en el propio. Compartes conocimientos sin guardarlos por competencia y cumples tus compromisos incluso cuando nadie te supervisa.
+Te conviertes en alguien confiable para resolver problemas y generar valor.
+Liderazgo Personal
+Definición: Influir y guiar a otros principalmente a través del ejemplo.Descripción práctica: Las personas te siguen por lo que haces y por cómo actúas. Cuando algo falla asumes responsabilidad. Enfrentas conversaciones difíciles con respeto y ayudas a otros a desarrollar sus capacidades. En situaciones difíciles mantienes calma y claridad.
+Generas confianza natural y resultados consistentes en los equipos.
+Visión Estratégica
+Definición: Capacidad de anticipar consecuencias y pensar en el futuro antes de actuar.Descripción práctica: Analizas cómo las decisiones de hoy impactarán en el futuro. Aprendes de los errores y ajustas estrategias cuando algo no funciona. Buscas soluciones prácticas que realmente resuelvan problemas importantes.
+Construyes resultados sostenibles a largo plazo para ti y para tu equipo.
+Módulo. Resultados Cualitativos
+Componente: Definición de niveles
+Objetivo: Permitir que el usuario comprenda el significado de la clasificación utilizada en sus resultados antes de interpretar cada una de las esferas evaluadas.
+Ubicación: Esta sección deberá mostrarse inmediatamente después de los Resultados Cuantitativos
+Información a mostrar
+Mostrar los cuatro niveles de desarrollo.
+Cada nivel deberá incluir:
+Nombre del nivel
+Rango de puntuación
+Definición
+Ejemplo
+🟩 Fortaleza
+4.0 – 5.0
+La capacidad está integrada de forma consistente y se convierte en un recurso personal que utilizas naturalmente.
+Lógica: Cada esfera tendrá cuatro interpretaciones almacenadas.
+La plataforma deberá mostrar únicamente una.
+La selección dependerá del nivel obtenido.
+Ejemplo
+Si resultado = 3.6
+Mostrar: En Consolidación
+No mostrar: En Riesgo, En Desarrollo, Fortaleza
+Reglas:
+Si el resultado pertenece al rango
+0.0–1.9 Mostrar interpretación "En Riesgo".
+Si pertenece al rango 2.0–2.9 Mostrar interpretación "En Desarrollo".
+Si pertenece al rango 3.0–3.9 Mostrar interpretación "En Consolidación".
+Si pertenece al rango 4.0–5.0 Mostrar interpretación "Fortaleza".
+DEFINICIONES DE ESFERA POR NIVEL
+Nivel
+Significado
+En Riesgo
+0 – 1.9
+La capacidad aún no se manifiesta en tu comportamiento. Su desarrollo representa una prioridad, ya que influye de manera importante en tu bienestar, tus relaciones o tu desempeño.
+En Desarrollo
+2.0 – 2.9
+La capacidad está presente de forma limitada o inconsistente. Existen oportunidades claras de crecimiento.
+En Consolidación
+3 – 3.9
+La capacidad ya forma parte de tu manera de actuar en muchas situaciones, aunque todavía requiere práctica para mantenerse estable.
+Fortaleza
+4 -5
+La capacidad está integrada de forma consistente y se convierte en un recurso personal que utilizas naturalmente.
+PILAR 1 – MI BASE
+Nivel
+Interpretación del Pilar
+En Riesgo
+En este momento, la base que sostiene tu bienestar necesita fortalecerse. Es posible que enfrentes algunas situaciones con poca claridad, que te resulte difícil manejar tus emociones o que el cansancio afecte tu energía y desempeño. Esto puede hacer que los retos cotidianos se sientan más difíciles de afrontar. Fortalecer este pilar te ayudará a recuperar el equilibrio, tomar mejores decisiones y construir una base más sólida para tu desarrollo.
+En Desarrollo
+Estás fortaleciendo la base que sostiene tu desarrollo personal. Poco a poco te conoces mejor, aprendes a manejar tus emociones y comienzas a cuidar con mayor constancia tu bienestar físico. Aunque todavía hay aspectos por fortalecer, ya cuentas con recursos que te permiten responder con mayor seguridad a los retos. Continuar desarrollando este pilar te ayudará a ganar estabilidad y bienestar.
+En Consolidación
+Has construido una base sólida que te permite enfrentar la mayoría de las situaciones con equilibrio. Generalmente comprendes lo que ocurre contigo, manejas tus emociones y mantienes hábitos que favorecen tu bienestar físico. Aunque aún pueden presentarse momentos de presión o desgaste, cuentas con herramientas para recuperarte y seguir avanzando con confianza.
+Fortaleza
+Mi Base es una de tus principales fortalezas. Actúas con claridad, manejas tus emociones de forma saludable y cuidas de tu bienestar físico de manera constante. Esta combinación te permite mantener el equilibrio, tomar decisiones conscientes y afrontar los desafíos con confianza. Tu base personal se convierte en un recurso que impulsa tu bienestar y favorece tu crecimiento
+ESFERAS
+ESFERA
+AUTOCONOCIMIENTO
+EN RIESGO
+Presentas dificultades para comprender quién eres y reconocer cómo influyen tus pensamientos, emociones y experiencias en tu forma de actuar. Con frecuencia reaccionas de manera automática o impulsiva, lo que dificulta identificar los patrones que se repiten en tu vida y aprender de ellos. Es posible que muchas de tus decisiones respondan más a las circunstancias que a una elección consciente. Fortalecer esta esfera implica comenzar a desarrollar una mayor conciencia de ti mismo, reconocer tus fortalezas y áreas de oportunidad, y construir una comprensión más clara que te permita tomar decisiones alineadas con la persona que deseas ser.
+EN DESARROLLO
+Estás comenzando a desarrollar una mayor comprensión de quién eres y de cómo influyen tus pensamientos, emociones y experiencias en tu forma de actuar. En distintos momentos reaccionas de manera automática o impulsiva, lo que dificulta identificar los patrones que se repiten en tu vida. Es posible que algunas decisiones respondan más a las circunstancias que a una elección consciente. Fortalecer esta esfera implica dedicar tiempo a observarte, reflexionar sobre tus experiencias y reconocer tanto tus fortalezas como tus áreas de oportunidad. A medida que aumente tu nivel de consciencia, te resultará más fácil tomar decisiones alineadas con la persona que deseas ser.
+EN CONSOLIDACIÓN
+Has desarrollado una comprensión cada vez más clara de ti mismo. Reconoces muchas de tus fortalezas, identificas algunos patrones de comportamiento y, en diversas situaciones, eres capaz de reflexionar antes de actuar. Aunque todavía existen momentos en los que reaccionas de forma automática, cuentas con herramientas para aprender de la experiencia y ajustar tu comportamiento. Continuar fortaleciendo esta esfera te permitirá actuar con mayor coherencia y convertir el autoconocimiento en una guía constante para tus decisiones
+FORTALEZA
+El autoconocimiento es una de tus fortalezas personales. Comprendes con claridad cómo piensas, qué sientes y cuáles son los factores que influyen en tus decisiones. Reconoces tus fortalezas con humildad y aceptas tus áreas de mejora como oportunidades de crecimiento. Antes de actuar, sueles analizar las consecuencias de tus decisiones y eliges respuestas alineadas con tus valores y objetivos. Esta capacidad te permite aprender continuamente, adaptarte a diferentes situaciones y construir una vida con mayor coherencia y propósito.
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblInd w:w="-5" w:type="dxa"/><w:tblBorders><w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tblBorders><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="1782"/><w:gridCol w:w="12535"/></w:tblGrid><w:tr w:rsidR="003924BB" w:rsidRPr="007E4C82" w14:paraId="25B380E0" w14:textId="77777777" w:rsidTr="00D122CA"><w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="1737" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="4C0B0D37" w14:textId="77777777" w:rsidR="003924BB" w:rsidRPr="003924BB" w:rsidRDefault="003924BB" w:rsidP="00D122CA"><w:pPr><w:jc w:val="center"/><w:rPr><w:b/><w:bCs/><w:highlight w:val="lightGray"/></w:rPr></w:pPr><w:r w:rsidRPr="003924BB"><w:rPr><w:b/><w:bCs/><w:highlight w:val="lightGray"/></w:rPr><w:t>ESFERA
+REGULACIÓN EMOCIONAL
+EN RIESGO
+En este momento puede resultarte difícil reconocer y gestionar tus emociones antes de reaccionar. Es posible que el estrés, la frustración o la presión influyan con frecuencia en la forma en que respondes, generando respuestas impulsivas o dificultando mantener la calma en situaciones desafiantes. Fortalecer esta esfera implica desarrollar una mayor conciencia emocional, aprender a detenerte antes de actuar y responder de manera más equilibrada y consciente.
+EN DESARROLLO
+Estás desarrollando la capacidad para reconocer y gestionar tus emociones. En situaciones de presión, estrés o frustración es posible que algunas emociones tomen el control de tus reacciones, dificultando responder con calma y claridad. Aunque ya identificas algunos de estos momentos, todavía resulta desafiante detenerte antes de actuar. Fortalecer esta esfera te permitirá responder de forma más consciente, disminuir los conflictos innecesarios y recuperar el equilibrio emocional con mayor facilidad.
+EN CONSOLIDACIÓN
+En muchas situaciones logras identificar lo que sientes y regular tus emociones antes de responder. Generalmente mantienes la calma y buscas actuar con equilibrio, aunque en escenarios de alta exigencia todavía puedes reaccionar impulsivamente o perder momentáneamente el control. La práctica constante de la autorregulación fortalecerá tu capacidad para afrontar situaciones complejas sin que las emociones definan tus decisiones.
+FORTALEZA
+La regulación emocional forma parte natural de tu manera de actuar. Reconoces tus emociones sin rechazarlas y las utilizas como información útil para tomar mejores decisiones. Incluso en momentos de presión o incertidumbre conservas la claridad, respondes con equilibrio y recuperas tu estabilidad emocional con rapidez. Esta fortaleza favorece relaciones más sanas, una mejor toma de decisiones y una mayor capacidad para afrontar los retos cotidianos.
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblInd w:w="-5" w:type="dxa"/><w:tblBorders><w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tblBorders><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="1782"/><w:gridCol w:w="12535"/></w:tblGrid><w:tr w:rsidR="003924BB" w:rsidRPr="007E4C82" w14:paraId="69B3B4C8" w14:textId="77777777" w:rsidTr="00D122CA"><w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="1737" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="12EEB6D1" w14:textId="77777777" w:rsidR="003924BB" w:rsidRPr="003924BB" w:rsidRDefault="003924BB" w:rsidP="00D122CA"><w:pPr><w:jc w:val="center"/><w:rPr><w:b/><w:bCs/><w:highlight w:val="lightGray"/></w:rPr></w:pPr><w:r w:rsidRPr="003924BB"><w:rPr><w:b/><w:bCs/><w:highlight w:val="lightGray"/></w:rPr><w:t>ESFERA
+BIENESTAR FÍSICO
+EN RIESGO
+Aún presentas dificultades para atender de forma constante las necesidades de tu cuerpo. Es posible que el descanso, la alimentación o la actividad física no formen parte de tus prioridades, afectando tus niveles de energía y bienestar. Con frecuencia el cansancio, el estrés o las exigencias del día a día influyen en el cuidado de tu salud, dificultando mantener un equilibrio físico. Fortalecer esta esfera implica desarrollar hábitos de autocuidado que favorezcan una energía más estable, una mejor salud y una mayor calidad de vida.
+EN DESARROLLO
+Estás comenzando a prestar mayor atención a las necesidades de tu cuerpo, aunque el cuidado de tu salud todavía depende con frecuencia del cansancio, el estrés o la aparición de molestias físicas. Es posible que algunos hábitos relacionados con el descanso, la alimentación o la actividad física sean irregulares, afectando tus niveles de energía y bienestar. Fortalecer esta esfera implica desarrollar hábitos preventivos que favorezcan una energía más estable y una mejor calidad de vida.
+EN CONSOLIDACIÓN
+Has incorporado varios hábitos que favorecen tu bienestar físico y, en la mayoría de las ocasiones, procuras mantener un equilibrio entre descanso, alimentación y actividad física. Generalmente escuchas las señales de tu cuerpo y realizas algunos ajustes cuando lo necesitas. Aun así, existen periodos en los que las responsabilidades o el ritmo de vida dificultan mantener esa constancia. Consolidar estos hábitos te permitirá sostener un mayor nivel de energía y bienestar en el largo plazo.
+FORTALEZA
+El cuidado de tu bienestar físico es una fortaleza que forma parte de tu estilo de vida. Mantienes hábitos consistentes que favorecen tu salud, tu energía y tu capacidad para responder a las demandas personales y profesionales. Reconoces oportunamente las necesidades de tu cuerpo y actúas de manera preventiva para mantener el equilibrio. Gracias a ello, cuentas con una base sólida que respalda tu rendimiento, tu bienestar emocional y tu desarrollo integral.
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="14400"/></w:tblGrid><w:tr w:rsidR="00013AB4" w:rsidRPr="002B6A52" w14:paraId="3F358BB2" w14:textId="77777777" w:rsidTr="00D122CA"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/></w:tcPr><w:p w14:paraId="34341599" w14:textId="1A6B8D55" w:rsidR="00013AB4" w:rsidRPr="00013AB4" w:rsidRDefault="00013AB4" w:rsidP="00D122CA"><w:pPr><w:rPr><w:b/><w:bCs/><w:i/><w:iCs/><w:color w:val="1F3864" w:themeColor="accent1" w:themeShade="80"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r w:rsidRPr="00013AB4"><w:rPr><w:b/><w:bCs/><w:i/><w:iCs/><w:color w:val="1F3864" w:themeColor="accent1" w:themeShade="80"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:lastRenderedPageBreak/><w:t>PILAR 2 - MI PROPÓSITO
+DEFINICIONES POR NIVEL
+Nivel
+Interpretación del Pilar
+En Riesgo
+Actualmente puede existir una desconexión entre tus decisiones, tus valores personales y la dirección que deseas construir en tu vida. Es posible que gran parte de tus acciones estén enfocadas en responder a circunstancias externas, responsabilidades inmediatas o expectativas de otras personas, dejando poco espacio para reflexionar sobre aquello que realmente te brinda significado. Fortalecer este nivel implica iniciar un proceso de exploración personal que te permita reconocer lo que es importante para ti, recuperar claridad sobre tu rumbo y comenzar a tomar decisiones más alineadas con tus propios valores y aspiraciones
+En Desarrollo
+Estás comenzando a explorar con mayor profundidad aquello que da sentido a tu vida y a reconocer los elementos que influyen en tus decisiones. Poco a poco identificas tus valores, intereses y objetivos personales, aunque todavía pueden existir momentos en los que las circunstancias externas, las dudas o las prioridades del día a día dificultan mantener una dirección clara. Continuar desarrollando este nivel implica fortalecer tu autoconocimiento, tomar decisiones más conscientes y construir una visión personal que te permita avanzar con mayor intención.
+En Consolidación
+Has logrado construir mayor claridad sobre lo que es importante para ti y comienzas a dirigir tus decisiones, relaciones y proyectos de acuerdo con tus valores y objetivos personales. Existe una mayor conexión entre lo que quieres lograr y la manera en que actúas, aunque todavía pueden presentarse situaciones donde las presiones externas o los cambios de contexto representen un reto para mantener tu enfoque. Consolidar este nivel implica fortalecer tu capacidad de actuar con coherencia, mantener tu rumbo y generar un equilibrio entre tus necesidades personales y las demandas de tu entorno.
+Fortaleza
+Has desarrollado una conexión clara con tu propósito personal y utilizas esa claridad como una guía para tomar decisiones, establecer prioridades y construir tu vida. Tus acciones reflejan coherencia entre tus valores, tus objetivos y la forma en que eliges actuar, permitiéndote mantener dirección incluso ante cambios o situaciones de incertidumbre. Esta fortaleza te ayuda a vivir con mayor intención, asumir la responsabilidad de tu camino y generar un impacto positivo en las personas y entornos que forman parte de tu vida.
+ESFERAS
+ESFERA
+SENTIDO DE VIDA
+EN RIESGO
+Actualmente puede resultar difícil identificar con claridad aquello que realmente es importante para ti o la dirección que deseas darle a tu vida. Es posible que tus decisiones estén principalmente influenciadas por las circunstancias, las expectativas externas o las necesidades inmediatas, generando una sensación de falta de rumbo, desmotivación o desconexión con lo que verdaderamente quieres construir. Desarrollar esta esfera implica detenerte a reflexionar sobre tus valores, reconocer aquello que te brinda significado y comenzar a definir objetivos personales que te permitan avanzar con mayor intención y claridad.
+EN DESARROLLO
+Estás comenzando a explorar qué es realmente importante para ti y cuál es la dirección que deseas darle a tu vida. En algunos momentos puedes sentir que tus decisiones responden más a las circunstancias, a las expectativas de otras personas o a las necesidades inmediatas que a un propósito personal claramente definido. Esto puede generar la sensación de avanzar sin una dirección constante o de cambiar de rumbo con facilidad. Fortalecer esta esfera implica reflexionar sobre tus valores, identificar aquello que da significado a tus acciones y construir objetivos que representen lo que verdaderamente quieres lograr.
+EN CONSOLIDACIÓN
+Has logrado identificar aspectos importantes que dan sentido a tu vida y comienzas a orientar tus decisiones hacia ellos. Cada vez te resulta más sencillo distinguir aquello que está alineado con tus valores y objetivos personales, aunque todavía existen momentos en los que las presiones externas o las responsabilidades cotidianas pueden hacerte perder claridad sobre tu rumbo. Continuar fortaleciendo esta esfera te permitirá actuar con mayor coherencia, mantener el enfoque en lo que realmente es importante para ti y construir una vida con mayor intención.
+FORTALEZA
+Tienes una visión clara del propósito que guía tu vida y utilizas esa claridad para orientar tus decisiones, prioridades y proyectos. Tus acciones reflejan aquello que consideras verdaderamente importante y existe una relación consistente entre tus valores, tus metas y la forma en que eliges vivir. Esta capacidad te permite mantener el rumbo incluso ante la incertidumbre, tomar decisiones con mayor confianza y experimentar una mayor sensación de significado y satisfacción en las diferentes áreas de tu vida.
+ESFERA
+AUTONOMÍA
+EN RIESGO
+En este momento puedes experimentar dificultades para tomar decisiones desde tu propio criterio y confiar en tu capacidad para dirigir tu camino. Es posible que busques con frecuencia la aprobación, guía o validación de otras personas antes de actuar, especialmente ante situaciones nuevas, cambios o momentos de incertidumbre. Fortalecer esta esfera implica desarrollar mayor confianza en tus capacidades, reconocer tu responsabilidad sobre tus elecciones y comenzar a tomar decisiones más conscientes alineadas con tus propios valores y objetivos.
+EN DESARROLLO
+Estás fortaleciendo tu capacidad para tomar decisiones por iniciativa propia y asumir un papel más activo en la construcción de tu vida. En determinadas situaciones todavía puedes depender de la opinión, aprobación o dirección de otras personas antes de actuar, especialmente cuando enfrentas escenarios nuevos o inciertos. Esto puede dificultar que desarrolles plenamente tu confianza personal. Avanzar en esta esfera implica aprender a confiar en tu criterio, asumir la responsabilidad de tus decisiones y reconocer que cada elección representa una oportunidad para crecer y aprender.
+EN CONSOLIDACIÓN
+En muchas situaciones actúas con independencia y tomas decisiones considerando tus propios criterios, valores y objetivos. Generalmente asumes la responsabilidad de las consecuencias de tus acciones y buscas resolver los retos por iniciativa propia. Sin embargo, en circunstancias de mayor complejidad aún puedes sentir la necesidad de validar tus decisiones con otras personas. Consolidar esta esfera fortalecerá tu seguridad personal y te permitirá actuar con mayor determinación, incluso frente a escenarios desafiantes.
+FORTALEZA
+La autonomía es una fortaleza que se refleja en la manera en que diriges tu vida. Tomas decisiones de forma consciente, responsable y alineada con tus valores, sin depender de la aprobación externa para avanzar. Evalúas diferentes alternativas, asumes las consecuencias de tus elecciones y adaptas tu rumbo cuando las circunstancias cambian, manteniendo siempre el control sobre aquello que depende de ti. Esta capacidad te permite actuar con seguridad, desarrollar mayor resiliencia y construir una vida guiada por tus propias convicciones.
+ESFERA
+TRASCENDENCIA
+EN RIESGO
+Puedes estar enfocando la mayor parte de tu energía en atender necesidades personales, responsabilidades inmediatas o metas individuales, sin considerar con frecuencia el impacto que tus acciones generan en las personas y entornos que forman parte de tu vida. Esto puede limitar la conexión con un sentido más amplio de contribución y significado. Desarrollar esta esfera implica ampliar tu perspectiva, reconocer la huella que generas en otros y descubrir formas de aportar valor más allá de tus propios intereses.
+EN DESARROLLO
+Estás comenzando a reconocer que tus acciones tienen un impacto que va más allá de tus propios intereses. Aunque la mayor parte de tus decisiones aún se orientan a resolver necesidades personales o inmediatas, poco a poco desarrollas una mayor sensibilidad hacia el efecto que generas en las personas y en los entornos que forman parte de tu vida. Fortalecer esta esfera implica ampliar tu perspectiva, comprender que cada acción deja una huella y descubrir formas de contribuir positivamente al bienestar de quienes te rodean.
+EN CONSOLIDACIÓN
+Cada vez integras con mayor frecuencia el impacto que tus decisiones tienen en otras personas. Buscas que parte de tus acciones generen beneficios compartidos y comienzas a encontrar satisfacción al aportar valor a tu familia, equipo, organización o comunidad. Aunque todavía existen momentos en los que las prioridades personales predominan, ya reconoces que contribuir al bienestar colectivo también fortalece tu propio crecimiento. Continuar desarrollando esta esfera permitirá que tus decisiones generen un impacto cada vez más positivo y duradero.
+FORTALEZA
+La trascendencia forma parte de tu manera natural de actuar. Comprendes que el verdadero crecimiento personal también implica generar valor para otras personas y procuras que tus decisiones produzcan un impacto positivo más allá de tus propios intereses. Tu propósito trasciende el beneficio individual y se refleja en la forma en que colaboras, compartes conocimiento, apoyas a otros y contribuyes al desarrollo de tu entorno. Esta capacidad fortalece tus relaciones, amplía tu influencia positiva y da un sentido más profundo a lo que haces cada día.
+PILAR 3 - MI CONEXIÓN
+DEFINICIONES
+Nivel
+Interpretación del Pilar
+En Riesgo
+La relación que mantienes contigo mismo y con las personas que te rodean puede estar afectando tu bienestar y la calidad de tus vínculos. Es posible que la inseguridad, la autocrítica o las dificultades para comunicarte y generar confianza limiten tu capacidad para construir relaciones saludables. Fortalecer este pilar implica desarrollar una mayor aceptación personal y construir relaciones basadas en el respeto, la empatía y la autenticidad.
+En Desarrollo
+Estás fortaleciendo la forma en que te relacionas contigo mismo y con los demás. Poco a poco desarrollas mayor confianza en ti, mejoras tu comunicación y construyes relaciones más auténticas y respetuosas. Continuar avanzando en este pilar te permitirá fortalecer tu bienestar emocional y generar vínculos cada vez más saludables.
+En Consolidación
+Has construido una relación más equilibrada contigo mismo y, en la mayoría de las situaciones, estableces relaciones positivas con quienes te rodean. Actúas con mayor autenticidad, confianza y respeto, aunque aún pueden presentarse retos que representen oportunidades para seguir creciendo.
+Fortaleza
+Tu capacidad para relacionarte contigo mismo y con los demás es una de tus fortalezas. Mantienes una autoestima saludable, te comunicas con autenticidad y construyes relaciones basadas en la confianza, la empatía y la colaboración. Esto favorece tu bienestar y te permite generar vínculos positivos tanto en tu vida personal como profesional.
+ESFERAS
+Nivel
+CONEXIÓN INTRAPERSONAL
+En Riesgo
+En este momento puede resultarte difícil reconocer tu valor personal y mantener una relación equilibrada contigo mismo. Es posible que la autocrítica, la inseguridad o el enfoque constante en tus áreas de mejora afecten la confianza en tus capacidades y tu bienestar emocional. Fortalecer esta esfera implica desarrollar una mayor aceptación personal, reconocer tus fortalezas y construir un diálogo interno más respetuoso y equilibrado.
+En Desarrollo
+Estás fortaleciendo la relación que construyes contigo mismo. En algunos momentos puedes ser muy crítico con tus errores, enfocarte más en lo que te falta que en lo que has logrado o cuestionar tus capacidades con facilidad. Esto puede hacer que tu bienestar emocional dependa de la aprobación externa o de los resultados que obtienes. Desarrollar esta esfera implica aprender a reconocerte con mayor objetividad, aceptar tanto tus fortalezas como tus áreas de oportunidad y tratarte con el mismo respeto y comprensión que ofrecerías a alguien importante para ti. A medida que avances, construirás una autoestima más sólida y una relación más sana contigo mismo.
+En Consolidación
+Has desarrollado una relación más equilibrada contigo mismo. Generalmente reconoces tus capacidades, aceptas tus áreas de mejora y procuras aprender de tus experiencias sin descalificarte. Aunque todavía existen momentos en los que la autocrítica o la inseguridad pueden aparecer, cuentas con recursos para recuperar la confianza y mantener una visión más objetiva sobre quién eres. Continuar fortaleciendo esta esfera te permitirá consolidar una autoestima estable, actuar con mayor autenticidad y mantener coherencia entre lo que piensas, sientes y haces.
+Fortaleza
+La relación contigo mismo es una de tus principales fortalezas. Te aceptas con autenticidad, reconoces tus capacidades y afrontas tus áreas de mejora sin perder la confianza en ti. Tu diálogo interno es respetuoso, constructivo y orientado al aprendizaje, lo que te permite enfrentar los desafíos con mayor equilibrio emocional. Actúas de forma coherente con tus valores e identidad, generando una sensación de estabilidad interna que favorece tu bienestar, tu toma de decisiones y la calidad de tus relaciones con los demás.
+Nivel
+CONEXIÓN EXTRAPERSONAL
+En Riesgo
+En algunas situaciones puede resultarte difícil construir relaciones basadas en la confianza, expresar lo que piensas con claridad o comprender la perspectiva de otras personas. Esto puede generar malentendidos, dificultar la colaboración o limitar la profundidad de tus vínculos. Fortalecer esta esfera implica desarrollar habilidades de comunicación, empatía y escucha que te permitan construir relaciones más auténticas, respetuosas y significativas.
+En Desarrollo
+Estás desarrollando tu capacidad para construir relaciones saludables y significativas con otras personas. En algunas situaciones puede resultarte difícil expresar lo que piensas con claridad, escuchar perspectivas diferentes o generar vínculos de confianza. Esto puede provocar malentendidos, evitar conversaciones importantes o limitar la profundidad de tus relaciones. Fortalecer esta esfera implica desarrollar habilidades de comunicación, empatía y colaboración que te permitan relacionarte desde el respeto, la apertura y la autenticidad. Conforme avances, descubrirás que las relaciones de calidad también fortalecen tu crecimiento personal.
+En Consolidación
+En la mayoría de las situaciones construyes relaciones positivas y respetuosas con las personas que te rodean. Sabes escuchar, expresar tus ideas y colaborar de manera efectiva, aunque todavía existen momentos en los que algunos desacuerdos o diferencias pueden generar incomodidad o afectar la comunicación. Has desarrollado bases sólidas para relacionarte con otros y continúas fortaleciendo tu capacidad para generar confianza, resolver conflictos y construir vínculos cada vez más significativos.
+Fortaleza
+Construir relaciones de confianza es una fortaleza natural para ti. Te comunicas con apertura, escuchas con interés genuino y generas espacios donde las personas se sienten valoradas y respetadas. Tu forma de relacionarte favorece la colaboración, el entendimiento y la resolución constructiva de las diferencias. Gracias a esta capacidad, desarrollas vínculos sólidos y duraderos, fortaleces el trabajo en equipo y contribuyes a crear ambientes donde las personas pueden crecer, cooperar y alcanzar objetivos compartidos.
+PILAR 4 - MI IMPACTO
+DEFINICIONES DEL PILAR
+Nivel
+Interpretación del Pilar
+En Riesgo
+La forma en que enfrentas tus responsabilidades, aportas a tu entorno y tomas decisiones puede estar limitando el impacto que generas. Es posible que te enfoques principalmente en responder a las necesidades inmediatas, dejando en segundo plano la iniciativa, la contribución y la planificación a futuro. Fortalecer este pilar implica asumir un papel más activo, reconocer el valor que puedes aportar y desarrollar una visión más amplia para generar resultados positivos y sostenibles.
+En Desarrollo
+Estás fortaleciendo tu capacidad para generar un impacto positivo a través de tus acciones. Poco a poco asumes mayor iniciativa, buscas aportar más allá de tus responsabilidades y comienzas a considerar cómo tus decisiones influyen en las personas y en los resultados futuros. Continuar desarrollando este pilar te permitirá actuar con mayor intención, generar más valor y afrontar los desafíos con una visión más amplia.
+En Consolidación
+Has construido una base sólida para generar un impacto positivo en tu entorno. Generalmente actúas con iniciativa, contribuyes al logro de objetivos comunes y analizas las consecuencias de tus decisiones antes de actuar. Aunque todavía pueden presentarse situaciones que representen un reto, cuentas con los recursos necesarios para seguir fortaleciendo tu liderazgo, ampliar tu contribución y tomar decisiones cada vez más estratégicas.
+Fortaleza
+Generar un impacto positivo forma parte de tu manera de actuar. Contribuyes con iniciativa, asumes la responsabilidad de tus decisiones y analizas el futuro para construir soluciones sostenibles. Tu forma de actuar inspira confianza, aporta valor a las personas y favorece el logro de objetivos compartidos. Esta fortaleza te permite influir positivamente en tu entorno y dejar una huella significativa en los proyectos y equipos de los que formas parte.
+ESFERAS
+Nivel
+CONTRIBUCIÓN
+En Riesgo
+En este momento puede resultar difícil reconocer el impacto que tus acciones tienen en las personas y en el entorno que te rodea. Es posible que tu atención esté centrada principalmente en cumplir con tus propias responsabilidades o resolver necesidades inmediatas, dejando en segundo plano las oportunidades para aportar valor a los demás. Fortalecer esta esfera implica desarrollar una actitud más proactiva, compartir tus capacidades y descubrir cómo tu contribución puede generar un beneficio más amplio.
+En Desarrollo
+Estás fortaleciendo tu capacidad para generar valor a través de lo que haces. Generalmente cumples con tus responsabilidades y atiendes las tareas que se esperan de ti, aunque todavía puede resultar desafiante identificar oportunidades para aportar más allá de lo solicitado. En algunos momentos tu participación se enfoca principalmente en alcanzar tus propios objetivos, dejando en segundo plano el impacto que podrías generar en las personas o equipos que te rodean. Desarrollar esta esfera implica adoptar una actitud más proactiva, compartir tus conocimientos y buscar formas de contribuir al bienestar colectivo. A medida que avances, descubrirás que el verdadero valor no solo se mide por lo que haces, sino también por el impacto positivo que generas en los demás.
+En Consolidación
+Has desarrollado una actitud de colaboración y, con frecuencia, buscas aportar más de lo esperado. Tu trabajo genera resultados positivos y contribuye al logro de los objetivos del equipo o de la organización. Compartes ideas, apoyas cuando identificas una necesidad y participas activamente en la solución de problemas. Aunque todavía existen situaciones en las que puedes concentrarte principalmente en tus propias responsabilidades, continúas ampliando tu capacidad para generar valor de manera constante. Consolidar esta esfera fortalecerá tu influencia positiva y hará que tu contribución sea cada vez más significativa.
+Fortaleza
+Generar valor para los demás es una fortaleza que forma parte de tu manera natural de actuar. Constantemente buscas oportunidades para mejorar procesos, compartir conocimientos y apoyar el crecimiento de las personas con las que colaboras. Tu contribución va más allá del cumplimiento de tus funciones, ya que procuras dejar un impacto positivo y sostenible en cada proyecto o entorno donde participas. Gracias a esta capacidad, las personas reconocen tu disposición para sumar, resolver problemas y construir resultados que benefician al conjunto, convirtiéndote en alguien confiable y valioso dentro de cualquier equipo u organización.
+Nivel
+LIDERAZGO PERSONAL
+En Riesgo
+En algunas situaciones puede resultarte difícil tomar la iniciativa o asumir un papel activo frente a los retos y responsabilidades que enfrentas. Es posible que prefieras esperar orientación o que dudes de tu capacidad para influir positivamente en el rumbo de las situaciones. Fortalecer esta esfera implica confiar más en tus capacidades, asumir la responsabilidad de tus decisiones y reconocer que el liderazgo comienza por la forma en que diriges tu propia vida.
+En Desarrollo
+Estás desarrollando la capacidad de asumir un papel más activo frente a los retos y responsabilidades que enfrentas. En algunas situaciones puedes esperar que otras personas marquen el rumbo o tomen decisiones importantes, especialmente cuando el contexto resulta incierto o complejo. Esto puede limitar tu iniciativa y hacer que desaproveches oportunidades para influir positivamente en tu entorno. Fortalecer esta esfera implica asumir mayor responsabilidad sobre tus acciones, actuar con iniciativa y reconocer que el liderazgo comienza por la forma en que diriges tu propia vida. Conforme avances, ganarás confianza para enfrentar desafíos y convertirte en un referente positivo para quienes te rodean.
+En Consolidación
+En la mayoría de las situaciones actúas con iniciativa y asumes la responsabilidad de tus decisiones. Buscas resolver problemas, participas activamente en los proyectos y procuras influir positivamente mediante tu ejemplo. Aunque todavía existen escenarios donde puedes dudar antes de actuar o delegar ciertas decisiones importantes, cuentas con una base sólida para seguir fortaleciendo tu liderazgo. Consolidar esta esfera te permitirá actuar con mayor seguridad, inspirar confianza en otras personas y afrontar los desafíos con una actitud más proactiva.
+Fortaleza
+El liderazgo personal es una de tus fortalezas. Asumes la responsabilidad de tus acciones, enfrentas los desafíos con iniciativa y mantienes coherencia entre lo que piensas, dices y haces. Tu ejemplo inspira confianza y motiva a otras personas a comprometerse con los objetivos compartidos. Incluso sin ocupar una posición formal de autoridad, influyes positivamente en quienes te rodean gracias a tu integridad, responsabilidad y capacidad para actuar con determinación. Esta fortaleza te permite impulsar cambios positivos y contribuir al desarrollo de las personas y los equipos con los que colaboras.
+Nivel
+VISIÓN ESTRATÉGICA
+En Riesgo
+Actualmente puedes centrar tu atención principalmente en resolver las necesidades del momento, sin considerar con frecuencia las consecuencias que tus decisiones pueden tener a mediano o largo plazo. Esto puede dificultar la planificación y limitar la identificación de oportunidades para alcanzar mejores resultados. Fortalecer esta esfera implica ampliar tu perspectiva, analizar diferentes escenarios y tomar decisiones con una visión más consciente y sostenible.
+En Desarrollo
+Estás desarrollando la capacidad para analizar las situaciones desde una perspectiva más amplia y anticipar las consecuencias de tus decisiones. En muchos casos tu atención se concentra en resolver las necesidades inmediatas, por lo que puede resultar difícil visualizar el impacto que tus acciones tendrán en el futuro. Esto puede limitar la planificación y hacer que algunas decisiones respondan únicamente a la urgencia del momento. Fortalecer esta esfera implica ampliar tu perspectiva, analizar diferentes escenarios y considerar cómo las decisiones de hoy pueden influir en tus resultados a mediano y largo plazo.
+En Consolidación
+Has desarrollado la capacidad para evaluar distintas alternativas antes de actuar y, en muchas situaciones, analizas cómo tus decisiones pueden impactar en el futuro. Generalmente consideras riesgos, oportunidades y posibles consecuencias antes de definir un camino de acción. Aunque todavía existen momentos en los que la presión o la urgencia pueden llevarte a priorizar el corto plazo, cuentas con recursos para ajustar estrategias y aprender de la experiencia. Continuar fortaleciendo esta esfera te permitirá tomar decisiones cada vez más conscientes y sostenibles.
+Fortaleza
+La visión estratégica es una fortaleza que utilizas de manera natural para orientar tus decisiones. Analizas los desafíos considerando diferentes escenarios, anticipas oportunidades y riesgos, y diseñas acciones pensando en resultados sostenibles. Comprendes que las decisiones más valiosas no solo resuelven las necesidades del presente, sino que también preparan el camino para el futuro. Gracias a esta capacidad, generas soluciones con una perspectiva integral, favoreces el crecimiento de las personas y contribuyes a construir resultados duraderos tanto para ti como para los equipos y organizaciones donde participas.

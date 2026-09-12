@@ -1,0 +1,447 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   HUMAN COMPLEX — sistema de diseño
+   Fundamento: introspección, no productividad.
+   Fondo nocturno cálido, geometría simbólica, tipografía editorial.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+:root {
+  /* —— Lienzo (modo nocturno por defecto) —— */
+  --bg-deep: oklch(0.155 0.010 70);          /* fondo más profundo */
+  --bg: oklch(0.185 0.012 72);               /* lienzo */
+  --bg-rise: oklch(0.215 0.013 72);          /* elevación 1 */
+  --bg-card: oklch(0.235 0.014 72);          /* card */
+  --line: oklch(0.32 0.012 72 / 0.55);       /* hairlines */
+  --line-soft: oklch(0.32 0.012 72 / 0.28);
+
+  /* —— Tinta —— */
+  --ink: oklch(0.96 0.013 80);               /* arena cálida, no blanco puro */
+  --ink-2: oklch(0.82 0.014 78 / 0.78);
+  --ink-3: oklch(0.72 0.014 78 / 0.55);
+  --ink-4: oklch(0.62 0.014 78 / 0.40);
+
+  /* —— Acento (ámbar terroso) —— */
+  --amber: oklch(0.78 0.13 65);
+  --amber-2: oklch(0.72 0.14 60);
+  --amber-soft: oklch(0.78 0.13 65 / 0.14);
+
+  /* —— Pilares (4) — desaturados, derivados de tierra —— */
+  /* Mi Base (azul) · Mi Propósito (púrpura) · Mi Conexión (verde) · Mi Impacto (ámbar) */
+  --p-base:       oklch(0.72 0.08 245);  /* azul humo */
+  --p-proposito:  oklch(0.70 0.09 305);  /* púrpura suave */
+  --p-conexion:   oklch(0.74 0.07 155);  /* salvia */
+  --p-impacto:    oklch(0.76 0.11 60);   /* ámbar terroso */
+
+  /* —— Niveles cualitativos (tags discretas) —— */
+  --lvl-desequilibrio: oklch(0.68 0.10 25);
+  --lvl-atencion:      oklch(0.78 0.10 75);
+  --lvl-enCamino:      oklch(0.74 0.07 155);
+  --lvl-fortaleza:     oklch(0.78 0.10 90);
+
+  /* —— Geometría —— */
+  --r-xs: 4px;
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 18px;
+  --r-xl: 28px;
+  --r-pill: 999px;
+
+  /* —— Tipografía —— */
+  --font-display: "Source Serif 4", "Source Serif Pro", Charter, Georgia, serif;
+  --font-ui: "Inter Tight", "Inter", -apple-system, "SF Pro Text", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", "Berkeley Mono", ui-monospace, monospace;
+
+  /* —— Sombras (suaves, presencia, no peso) —— */
+  --shadow-soft: 0 1px 0 oklch(0.32 0.012 72 / 0.4) inset, 0 20px 50px -30px oklch(0 0 0 / 0.5);
+  --shadow-rise: 0 1px 0 oklch(0.40 0.012 72 / 0.5) inset, 0 30px 60px -30px oklch(0 0 0 / 0.6);
+}
+
+/* —— Modo claro —— */
+[data-mode="light"] {
+  --bg-deep: oklch(0.965 0.008 80);
+  --bg: oklch(0.985 0.005 80);
+  --bg-rise: oklch(0.96 0.008 80);
+  --bg-card: oklch(0.94 0.010 80);
+  --line: oklch(0.20 0.010 80 / 0.18);
+  --line-soft: oklch(0.20 0.010 80 / 0.10);
+
+  --ink: oklch(0.18 0.013 70);
+  --ink-2: oklch(0.30 0.013 70 / 0.80);
+  --ink-3: oklch(0.40 0.013 70 / 0.62);
+  --ink-4: oklch(0.50 0.013 70 / 0.45);
+
+  --amber: oklch(0.62 0.14 55);
+  --amber-2: oklch(0.55 0.15 50);
+  --amber-soft: oklch(0.62 0.14 55 / 0.12);
+
+  --shadow-soft: 0 1px 0 oklch(1 0 0 / 0.6) inset, 0 12px 30px -18px oklch(0.20 0.013 70 / 0.18);
+  --shadow-rise: 0 1px 0 oklch(1 0 0 / 0.7) inset, 0 24px 48px -24px oklch(0.20 0.013 70 / 0.22);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-ui);
+  font-size: 15px;
+  line-height: 1.55;
+  background: var(--bg-deep);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "ss01", "cv11";
+  letter-spacing: -0.005em;
+  min-height: 100vh;
+}
+
+/* —— Tipografía editorial —— */
+.display {
+  font-family: var(--font-display);
+  font-weight: 360;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+}
+.display-italic {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 360;
+  letter-spacing: -0.015em;
+}
+em.frase, .em-frase {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 380;
+  color: var(--amber);
+  letter-spacing: -0.005em;
+  font-size: 1.05em;
+}
+.eyebrow {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+.eyebrow-mono {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  color: var(--ink-3);
+}
+
+/* —— Lienzo de la app —— */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-deep);
+}
+.canvas {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+/* —— Cards —— */
+.card {
+  background: var(--bg-card);
+  border: 0.5px solid var(--line-soft);
+  border-radius: var(--r-lg);
+}
+.card-quiet {
+  background: transparent;
+  border: 0.5px solid var(--line);
+  border-radius: var(--r-lg);
+}
+.card-rise {
+  background: var(--bg-rise);
+  border: 0.5px solid var(--line-soft);
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow-soft);
+}
+
+/* —— Botones —— */
+.btn {
+  appearance: none;
+  border: none;
+  font-family: var(--font-ui);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  padding: 13px 22px;
+  border-radius: var(--r-pill);
+  cursor: pointer;
+  transition: all 240ms cubic-bezier(0.2, 0.6, 0.2, 1);
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.btn-primary {
+  background: var(--ink);
+  color: var(--bg);
+}
+.btn-primary:hover { transform: translateY(-1px); }
+.btn-ghost {
+  background: transparent;
+  color: var(--ink-2);
+  border: 0.5px solid var(--line);
+}
+.btn-ghost:hover { color: var(--ink); border-color: var(--ink-3); }
+.btn-link {
+  background: transparent; border: none; padding: 0;
+  color: var(--ink-2); font-family: var(--font-ui); font-size: 14px;
+  cursor: pointer; text-decoration: underline; text-underline-offset: 4px;
+  text-decoration-color: var(--line);
+}
+.btn-link:hover { color: var(--ink); }
+
+/* —— Pillar tags —— */
+.pillar-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+}
+.pillar-tag .dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--pillar, var(--amber));
+}
+
+/* —— Top bar —— */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 40px;
+  border-bottom: 0.5px solid var(--line-soft);
+}
+.topbar-brand {
+  display: flex; align-items: center; gap: 12px;
+  color: var(--ink);
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 380;
+  letter-spacing: -0.01em;
+}
+.topbar-brand-italic {
+  font-style: italic;
+  color: var(--amber);
+}
+.topbar-meta {
+  display: flex; align-items: center; gap: 28px;
+  font-size: 13px; color: var(--ink-3);
+}
+
+/* —— Bottom dev nav (jump to screen) —— */
+.devnav {
+  position: fixed;
+  bottom: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 4px;
+  padding: 6px;
+  background: oklch(0.16 0.012 72 / 0.85);
+  border: 0.5px solid var(--line);
+  border-radius: var(--r-pill);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  z-index: 100;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  letter-spacing: 0.04em;
+}
+[data-mode="light"] .devnav {
+  background: oklch(0.99 0.005 80 / 0.85);
+}
+.devnav button {
+  appearance: none; border: none;
+  padding: 8px 14px;
+  background: transparent;
+  color: var(--ink-3);
+  border-radius: var(--r-pill);
+  cursor: pointer;
+  font: inherit;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.devnav button:hover { color: var(--ink-2); }
+.devnav button.active {
+  background: var(--bg-card);
+  color: var(--ink);
+}
+
+/* —— Inputs —— */
+.input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 0.5px solid var(--line);
+  color: var(--ink);
+  font-family: var(--font-display);
+  font-size: 22px;
+  padding: 12px 0;
+  outline: none;
+  letter-spacing: -0.01em;
+}
+.input::placeholder { color: var(--ink-4); font-style: italic; }
+.input:focus { border-bottom-color: var(--amber); }
+
+/* —— Choice cards (Likert) —— */
+.choice {
+  position: relative;
+  background: transparent;
+  border: 0.5px solid var(--line);
+  border-radius: var(--r-md);
+  padding: 18px 20px;
+  cursor: pointer;
+  transition: all 200ms ease;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  color: var(--ink-2);
+  font-family: var(--font-ui);
+  font-size: 14.5px;
+}
+.choice:hover {
+  border-color: var(--ink-3);
+  color: var(--ink);
+  background: var(--bg-rise);
+}
+.choice.selected {
+  border-color: var(--amber);
+  background: var(--amber-soft);
+  color: var(--ink);
+}
+.choice-glyph {
+  width: 24px; height: 24px;
+  flex-shrink: 0;
+}
+
+/* —— Progreso introspectivo (no es una barra de KPI) —— */
+.steps-trail {
+  display: flex; align-items: center; gap: 8px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-3);
+  letter-spacing: 0.06em;
+}
+.steps-trail .step {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--line);
+}
+.steps-trail .step.passed { background: var(--ink-3); }
+.steps-trail .step.current { background: var(--amber); transform: scale(1.4); }
+
+/* —— Esfera tile —— */
+.sphere-tile {
+  position: relative;
+  background: var(--bg-card);
+  border: 0.5px solid var(--line-soft);
+  border-radius: var(--r-lg);
+  padding: 22px;
+  cursor: pointer;
+  transition: all 240ms cubic-bezier(0.2, 0.6, 0.2, 1);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 140px;
+  text-align: left;
+  color: var(--ink);
+  font-family: inherit;
+  font-size: inherit;
+}
+.sphere-tile:hover {
+  background: var(--bg-rise);
+  transform: translateY(-2px);
+}
+.sphere-tile-name {
+  font-family: var(--font-display);
+  font-size: 19px;
+  font-weight: 380;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+}
+.sphere-tile-meta {
+  margin-top: auto;
+  display: flex; justify-content: space-between; align-items: baseline;
+  font-size: 12px; color: var(--ink-3);
+}
+
+/* —— Helpers de diagramación —— */
+.stack { display: flex; flex-direction: column; }
+.row { display: flex; }
+.center { display: flex; align-items: center; justify-content: center; }
+.between { display: flex; align-items: center; justify-content: space-between; }
+.muted { color: var(--ink-3); }
+.muted-2 { color: var(--ink-4); }
+.amber { color: var(--amber); }
+.serif { font-family: var(--font-display); }
+
+/* —— Animación de entrada serena —— */
+@keyframes hc-rise {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.rise { animation: hc-rise 600ms cubic-bezier(0.2, 0.6, 0.2, 1) both; }
+.rise-2 { animation: hc-rise 600ms cubic-bezier(0.2, 0.6, 0.2, 1) 100ms both; }
+.rise-3 { animation: hc-rise 600ms cubic-bezier(0.2, 0.6, 0.2, 1) 200ms both; }
+.rise-4 { animation: hc-rise 600ms cubic-bezier(0.2, 0.6, 0.2, 1) 300ms both; }
+
+/* —— Speech (citas en serif) —— */
+blockquote.quote {
+  margin: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 360;
+  font-size: 24px;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-wrap: pretty;
+  max-width: 32ch;
+}
+blockquote.quote cite {
+  display: block;
+  margin-top: 14px;
+  font-family: var(--font-ui);
+  font-style: normal;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+/* —— Resource row —— */
+.res-row {
+  display: grid;
+  grid-template-columns: 32px 1fr auto;
+  gap: 18px;
+  align-items: center;
+  padding: 18px 0;
+  border-bottom: 0.5px solid var(--line-soft);
+  cursor: pointer;
+}
+.res-row:hover { background: var(--bg-rise); border-radius: var(--r-md); padding-left: 18px; padding-right: 18px; }
+.res-glyph { width: 32px; height: 32px; color: var(--ink-3); }
+.res-title {
+  font-family: var(--font-display);
+  font-size: 17px;
+  letter-spacing: -0.005em;
+}
+.res-meta { font-size: 12px; color: var(--ink-3); margin-top: 2px; }
+.res-kind {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: var(--ink-4);
+}

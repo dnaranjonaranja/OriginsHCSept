@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="es" data-mode="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>8D — Resultado por pilar (comparación de color)</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@300..700&family=JetBrains+Mono:wght@300..500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    body { background: #ebe4d4; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+  <script type="text/babel" src="design-canvas.jsx"></script>
+  <script type="text/babel" src="data.jsx"></script>
+  <script type="text/babel" src="brand.jsx"></script>
+
+  <script type="text/babel">
+    const LEVEL_TO_SCORE_PV = {
+      desequilibrio: 1.6, atencion: 2.6, enCamino: 3.6, fortaleza: 4.5,
+    };
+
+    // Un sphere de muestra por pilar, escogido para mostrar variedad de niveles
+    const SAMPLES = [
+      { pillarId: 'base',      sphereId: 'autoconocimiento', level: 'fortaleza' },
+      { pillarId: 'proposito', sphereId: 'decision',         level: 'enCamino' },
+      { pillarId: 'conexion',  sphereId: 'empatia',          level: 'fortaleza' },
+      { pillarId: 'impacto',   sphereId: 'ejecucion',        level: 'desequilibrio' },
+    ];
+
+    const MEANING_BY_LEVEL = {
+      desequilibrio: 'Hay una distancia importante entre lo que dices que importa en esta esfera y lo que estás haciendo. No es para alarmarse — es para mirarse.',
+      atencion:      'Algo aquí pide ser mirado. No está roto, pero te está mandando señales que vale la pena escuchar.',
+      enCamino:      'Estás en contacto con esta esfera. La cuidas, aunque no siempre con la misma constancia. Hay camino por delante.',
+      fortaleza:     'Aquí hay alineación entre lo que crees, sientes, dices y haces. Es uno de tus puntos de apoyo.',
+    };
+
+    const IMPLICATIONS_BY_LEVEL = {
+      desequilibrio: 'En el día a día puede aparecer como cansancio difuso, promesas incumplidas o la sensación de no avanzar.',
+      atencion:      'En el día a día puede aparecer como decisiones aplazadas, fricciones repetidas o pequeñas señales del cuerpo.',
+      enCamino:      'En el día a día se traduce en una práctica que sostiene, aunque a veces con altibajos.',
+      fortaleza:     'En el día a día sostiene tus decisiones, tus vínculos y tu relación contigo mismo.',
+    };
+
+    const ACTION_BY_LEVEL = {
+      desequilibrio: 'Antes de aceptar el próximo compromiso, deja pasar una respiración completa. Mira tu agenda. Pregúntate: ¿qué le estoy quitando a algo que ya importa?',
+      atencion:      'Esta semana, identifica una pequeña señal que has estado ignorando. Nombra qué te quiere decir.',
+      enCamino:      'Esta semana, sostén una sola práctica que ya hayas empezado. La constancia es lo que falta, no el inicio.',
+      fortaleza:     'Esta semana, comparte con alguien por qué esto sostiene tu vida. Cuando lo nombras, lo afianzas.',
+    };
+
+    function SphereCard({ pillarId, sphereId, level }) {
+      const p = PILLARS.find((x) => x.id === pillarId);
+      const s = SPHERES.find((x) => x.id === sphereId);
+      const c = PILLAR_COLORS[pillarId];
+      const lvl = LEVELS[level];
+      const score = LEVEL_TO_SCORE_PV[level];
+      const meaning = MEANING_BY_LEVEL[level];
+      const implications = IMPLICATIONS_BY_LEVEL[level];
+      const action = ACTION_BY_LEVEL[level];
+
+      return (
+        <div style={{
+          background: 'var(--bg)',
+          minHeight: '100%',
+          padding: '40px 44px 56px',
+          fontFamily: 'var(--font-ui)',
+          color: 'var(--ink)',
+          display: 'flex',
+          flexDirection: 'column',
+          gap: 28,
+        }}>
+          {/* eyebrow + título */}
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 18 }}>
+              <PillarGlyph pillar={pillarId} size={32}/>
+              <span style={{
+                fontFamily: 'var(--font-ui)', fontSize: 11, fontWeight: 600,
+                letterSpacing: '0.18em', textTransform: 'uppercase', color: c,
+              }}>{p.name}</span>
+            </div>
+            <h1 className="display" style={{
+              fontSize: 56, margin: 0, lineHeight: 1.0, letterSpacing: '-0.028em', fontWeight: 500,
+            }}>{s.name}</h1>
+            <p className="display-italic" style={{
+              fontSize: 19, color: 'var(--ink-3)', margin: '14px 0 0', letterSpacing: '-0.005em',
+            }}>{s.subtitle}</p>
+          </div>
+
+          {/* Score card */}
+          <div style={{
+            padding: 26,
+            background: 'var(--bg-card)',
+            border: '1px solid var(--line-soft)',
+            borderRadius: 'var(--r-lg)',
+            borderLeft: `3px solid ${c}`,
+            boxShadow: 'var(--shadow-soft)',
+            display: 'flex',
+            alignItems: 'flex-end',
+            justifyContent: 'space-between',
+            gap: 18,
+          }}>
+            <div>
+              <p className="eyebrow" style={{ marginBottom: 10, fontSize: 10 }}>Tu nivel actual</p>
+              <div style={{ display: 'flex', alignItems: 'baseline', gap: 8, marginBottom: 6 }}>
+                <span className="display" style={{
+                  fontSize: 64, fontWeight: 500, color: 'var(--ink)',
+                  letterSpacing: '-0.03em', lineHeight: 0.9,
+                  fontVariantNumeric: 'lining-nums tabular-nums',
+                }}>{score.toFixed(1)}</span>
+                <span className="display" style={{ fontSize: 20, color: 'var(--ink-4)', fontWeight: 500 }}>/ 5</span>
+              </div>
+              <p className="display-italic" style={{ fontSize: 22, margin: 0, color: c, letterSpacing: '-0.015em' }}>
+                {lvl.name}
+              </p>
+            </div>
+            <CoherenceRing level={level} color={c} size={88} strokeWidth={5}/>
+          </div>
+
+          {/* Interpretación */}
+          <div>
+            <p className="eyebrow" style={{ marginBottom: 12, fontSize: 10 }}>Interpretación</p>
+            <p className="display" style={{
+              fontSize: 21, lineHeight: 1.35, margin: 0,
+              color: 'var(--ink)', fontWeight: 500, letterSpacing: '-0.012em',
+            }}>{meaning}</p>
+          </div>
+
+          {/* En tu vida diaria */}
+          <div>
+            <p className="eyebrow" style={{ marginBottom: 12, fontSize: 10 }}>En tu vida diaria</p>
+            <p style={{
+              fontSize: 15.5, color: 'var(--ink-2)', margin: 0, lineHeight: 1.6,
+              fontFamily: 'var(--font-display)', fontWeight: 400,
+            }}>{implications}</p>
+          </div>
+
+          {/* Acción semanal — usa el color del pilar */}
+          <div style={{
+            padding: '22px 24px',
+            background: `${c}1f`,
+            borderLeft: `3px solid ${c}`,
+            borderRadius: '0 var(--r-md) var(--r-md) 0',
+          }}>
+            <p className="eyebrow" style={{ marginBottom: 10, color: c, fontSize: 10 }}>
+              Una sola acción esta semana
+            </p>
+            <p className="display-italic" style={{
+              fontSize: 17, margin: 0, lineHeight: 1.45,
+              color: 'var(--ink)', letterSpacing: '-0.008em',
+            }}>{action}</p>
+          </div>
+
+          {/* CTA fila */}
+          <div style={{ display: 'flex', gap: 12, alignItems: 'center', marginTop: 'auto', paddingTop: 12 }}>
+            <button className="btn btn-primary" style={{ fontSize: 13, padding: '11px 18px' }}>
+              Recursos para esta esfera
+            </button>
+          </div>
+        </div>
+      );
+    }
+
+    function App() {
+      return (
+        <DesignCanvas
+          title="8D — Cómo se ve el resultado en cada pilar"
+          subtitle="Una esfera de muestra por pilar, con un nivel distinto para ver cómo se comportan los colores"
+        >
+          <DCSection id="pilares" title="Resultado de esfera — color por pilar">
+            {SAMPLES.map((sample) => {
+              const p = PILLARS.find((x) => x.id === sample.pillarId);
+              const s = SPHERES.find((x) => x.id === sample.sphereId);
+              return (
+                <DCArtboard key={sample.pillarId}
+                  id={`pillar-${sample.pillarId}`}
+                  label={`${p.name} · ${s.name} · ${LEVELS[sample.level].name}`}
+                  width={520} height={820}>
+                  <SphereCard
+                    pillarId={sample.pillarId}
+                    sphereId={sample.sphereId}
+                    level={sample.level}
+                  />
+                </DCArtboard>
+              );
+            })}
+          </DCSection>
+        </DesignCanvas>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<App/>);
+  </script>
+</body>
+</html>

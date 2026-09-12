@@ -1,0 +1,363 @@
+Entregable 2
+Definición del Propósito y Fundamento Científico
+Proyecto Human Complex
+Fecha: 7 de enero de 2026
+Elaborado por: Luis Fernando López — Product Owner
+Versión 3.0 — Modelo 4 Esferas × 8 Capacidades — Reescritura Humanista
+
+Resumen Ejecutivo
+Este documento redefine Human Complex desde una perspectiva humanista: una plataforma que existe para ayudar a las personas a florecer, no para optimizar su rendimiento laboral.
+La premisa central es simple pero profunda: en un mundo de cambio constante, la mejor inversión que podemos hacer es en nuestro desarrollo integral como seres humanos. Cuando las personas están bien consigo mismas, crecen en lo que les importa, cultivan relaciones nutritivas y sienten que su vida tiene sentido, todo lo demás —incluido su desempeño profesional— mejora como consecuencia natural.
+Human Complex se estructura sobre el modelo científicamente validado de 4 Esferas × 8 Capacidads, fundamentado en seis marcos teóricos de psicología del bienestar con décadas de evidencia empírica. Sin embargo, a diferencia de los assessments corporativos tradicionales, este modelo se traduce en una experiencia centrada en la persona, donde los resultados generan reflexión genuina, no scores abstractos.
+La persona es el beneficiario primario. La organización que paga por la plataforma recibe valor de manera indirecta: personas más plenas tienden a ser empleados más comprometidos.
+1. El Propósito Real de Human Complex
+1.1 Por qué existe
+Human Complex nace de una frustración legítima con las herramientas de autoconocimiento actuales. Como expresaron los fundadores: &quot;Querían una herramienta que te emocionara, que te provocara, que te hiciera sentir algo, y nos quedó una herramienta como de cuestionario del vanidades... un cuestionario frío, sin chiste.&quot;
+La mayoría de assessments fallan porque:
+Te dan resultados sin significado: un &quot;70 sobre 100&quot; no te dice nada sobre quién eres ni qué necesitas.
+No traducen a acción: terminas preguntándote &quot;¿y esto para qué me sirve?&quot;.
+Carecen de fundamento científico: fueron creados por intuición o copia de otros modelos, sin respaldo empírico.
+Human Complex resuelve esto mediante una combinación única: rigor científico absoluto traducido en una experiencia profundamente humana.
+1.2 La premisa central: La metáfora de la mesa
+Imagina tu bienestar como una mesa sostenida por cuatro patas. Cuando las cuatro patas están fuertes, la mesa se mantiene firme incluso cuando la vida presenta desafíos. Si una pata falla, las otras tres pueden compensar temporalmente. Pero si dos o más patas están débiles, la mesa colapsa.
+Las cuatro patas son:
+Tu Base: ¿Estás bien contigo mismo? (Autoconocimiento y propósito)
+Tu Crecimiento: ¿Creces en lo tuyo? (Sentido y autonomía)
+Tus Vínculos: ¿Tienes relaciones que te nutren? (Conexión y regulación emocional)
+Tu Huella: ¿Sientes que aportas algo que vale? (Contribución y crecimiento continuo)
+En la medida en que fortalecemos estas cuatro áreas de nuestra vida, nos preparamos mejor para enfrentar lo que venga. Esta no es una promesa de éxito profesional —es una invitación a vivir de manera más plena y consciente.
+Human Complex existe para ayudar a las personas a entender dónde están paradas en estas cuatro esferas de su vida, y ofrecerles caminos concretos para fortalecer lo que necesiten fortalecer.
+2. Fundamento Científico: El Modelo 4 Esferas × 8 Capacidads
+2.1 Los seis marcos teóricos validados
+Human Complex no es un invento desde cero. Se fundamenta en la convergencia de seis marcos teóricos con décadas de investigación empírica en psicología del bienestar:
+Framework
+Autor/Año
+Validación Empírica
+Self-Determination Theory
+Deci &amp; Ryan (1985-2017)
+Miles de estudios. Una de las teorías más validadas en psicología motivacional.
+Psychological Well-Being
+Carol Ryff (1989-2014)
+Análisis factoriales confirmatorios en múltiples países y culturas.
+PERMA
+Seligman (2011)
+Ampliamente usado en psicología positiva aplicada y educación.
+VIA Character Strengths
+Peterson &amp; Seligman (2004)
++700 artículos de investigación. Traducido a 41 idiomas.
+Logoterapia
+Viktor Frankl (1946)
+Fundamento de terapia existencial. Validación clínica extensa.
+Emotional Intelligence
+Daniel Goleman (1995)
+Ampliamente adoptado en contextos organizacionales globales.
+
+2.2 Análisis de convergencia: Lo que la ciencia confirma
+Cuando analizamos estos seis frameworks, emergen patrones claros. Las capacidads que aparecen en múltiples teorías tienen mayor validez universal. No estamos inventando dimensiones —las estamos descubriendo en el consenso científico.
+Capacidad
+Convergencia
+Frameworks de Soporte
+Conexión/Relaciones
+6/6 frameworks
+SDT + Ryff + PERMA + VIA + Frankl + Goleman
+Autonomía
+5/6 frameworks
+SDT + Ryff + Goleman + VIA
+Propósito/Sentido
+5/6 frameworks
+Frankl + Ryff + PERMA + VIA
+Autoconocimiento
+4/6 frameworks
+Ryff + Goleman + base implícita
+Regulación Emocional
+4/6 frameworks
+PERMA + VIA + Goleman
+Crecimiento Continuo
+4/6 frameworks
+Ryff + PERMA + VIA
+Contribución
+3/6 frameworks
+VIA + Goleman
+
+2.3 El modelo 4 Esferas × 8 Capacidads resultante
+Basado en esta convergencia científica, Human Complex organiza el desarrollo humano en cuatro esferas simétricas (las cuatro patas de la mesa), cada una con dos capacidads complementarias:
+
+Esfera
+Capacidads
+Pregunta Central
+ESFERA 1:
+TU BASE
+(¿Te cuidas? ¿Te conoces?)
+1. Bienestar Físico
+¿Duermes bien? ¿Comes bien? ¿Te mueves? ¿Atiendes tu salud?
+2. Autoconocimiento
+¿Te conoces? ¿Sabes qué te mueve y qué te detiene?
+Esta esfera explora tu relación contigo mismo:
+¿Tienes claridad sobre quién eres y hacia dónde vas? ¿O sientes que te mueves en piloto automático sin saber bien por qué haces lo que haces?
+ESFERA 2:
+TU CRECIMIENTO
+(¿Creces en lo tuyo?)
+3. Sentido y Dirección
+¿Sabes hacia dónde vas? ¿Tienes claridad sobre tu camino en la vida?
+4. Autonomía
+¿Tu vida está en tus manos o sientes que otros deciden por ti?
+Esta esfera explora tu capacidad de agencia:
+¿Tomas decisiones que reflejan quién eres? ¿Sientes que estás desarrollándote en áreas que realmente te importan?
+ESFERA 3:
+TUS VÍNCULOS
+(¿Tienes relaciones que te nutren?)
+5. Conexión Interpersonal
+¿Tienes vínculos genuinos que te sostienen?
+6. Regulación Emocional
+¿Puedes estar con tus emociones sin que te desborden?
+Esta esfera explora tu vida emocional y relacional:
+¿Tienes personas con las que puedes ser vulnerable? ¿Entiendes tus emociones o te controlan?
+ESFERA 4:
+TU HUELLA
+(¿Sientes que aportas algo que vale?)
+7. Contribución
+¿Sientes que tu existencia suma algo a otros o al mundo?
+8. Crecimiento Continuo
+¿Sigues aprendiendo y evolucionando o sientes que ya llegaste a tu techo?
+Esta esfera explora tu impacto y evolución:
+¿Tu vida genera algo valioso para otros? ¿Mantienes curiosidad y apertura al cambio?
+
+2.4 Transición del modelo actual
+El análisis de mapeo muestra que la transición del modelo original de 8 dimensiones al modelo científicamente validado preserva el 75% del trabajo existente. No estamos eliminando contenido arbitrariamente —estamos reorganizándolo bajo un marco más riguroso.
+Dimensión Actual
+Acción
+Nueva Capacidad
+% Contenido Preservado
+Búsqueda de sentido
+MANTENER
+Propósito
+100%
+Descripción del yo
+MANTENER
+Autoconocimiento
+100%
+Manejo tiempo
+INTEGRAR
+Autonomía
+60%
+Motivación
+INTEGRAR
+Competencia
+70%
+Comunicación
+INTEGRAR
+Conexión Interpersonal
+80%
+Emociones
+INTEGRAR
+Regulación Emocional
+70%
+Liderazgo
+INTEGRAR
+Contribución
+85%
+Profundidad consciencia
+ELIMINAR
+—
+0%
+—
+AGREGAR
+Crecimiento Continuo
+Nuevo 100%
+
+Resultado del mapeo: 37.5% contenido directo preservado, 50% reconceptualizado con base científica, 12.5% eliminado. Las 33 habilidades existentes se redistribuyen entre las 8 capacidads científicas.
+
+3. Principios de Diseño Humanista: Por qué Human Complex es Diferente
+Esta es la sección más importante del documento. Aquí establecemos explícitamente la diferencia filosófica entre Human Complex y los assessments corporativos tradicionales.
+Human Complex tiene la misma base científica que muchos assessments organizacionales (SDT, PERMA, Ryff), pero existe para un propósito radicalmente distinto.
+3.1 Contraste fundamental
+Aspecto
+Assessment Corporativo Típico
+Human Complex
+¿Quién es el cliente?
+La empresa que paga
+La persona que usa la plataforma
+¿Para qué se evalúa?
+Identificar áreas de desarrollo personal y oportunidades de crecimiento
+Entender dónde estás en tu vida y qué necesitas para estar mejor
+¿Qué se mide?
+Capacidades humanas integrales: físicas, emocionales, relacionales, existenciales
+Bienestar humano integral: tu relación contigo, con tu crecimiento, con otros, con tu propósito
+¿Cómo se comunican resultados?
+Scores, percentiles, comparaciones con normas, identificación de &quot;brechas&quot;
+Reflexiones sobre tu momento vital, invitaciones a explorar, caminos posibles
+¿Qué sigue después?
+Planes de desarrollo organizacional, capacitaciones, seguimiento por RH
+Recursos para tu camino personal, prácticas concretas, acompañamiento voluntario
+¿Quién ve tus datos?
+Tu jefe, RH, líderes de la organización (datos agregados o individuales)
+Solo tú. Los datos agregados son opcionales y con tu consentimiento explícito
+Teoría del cambio
+Empleados más efectivos → ROI para la empresa
+Personas más plenas → Empleados más comprometidos (efecto secundario)
+
+3.2 Los seis principios de diseño
+Estos principios guían cada decisión de producto —desde la nomenclatura hasta el tono de los resultados, pasando por qué features priorizamos y cuáles descartamos.
+Principio 1: La persona es el beneficiario primario, no la organización
+Qué significa:
+Aunque la empresa paga por la plataforma, cada decisión de diseño se toma preguntando: &quot;¿Esto sirve a la persona o sirve al empleador?&quot; Si la respuesta es &quot;al empleador&quot;, no entra en el MVP.
+Implicaciones concretas:
+Los datos individuales son privados por defecto. La organización NO ve resultados personales a menos que el empleado decida compartirlos.
+Los dashboards para RH muestran solo datos agregados y anonimizados, nunca identificables.
+El seguimiento es voluntario. Nadie te obliga a hacer los ejercicios ni te supervisa si los haces.
+Principio 2: Los resultados generan reflexión, no dictaminan
+Qué significa:
+Human Complex no te dice &quot;quién eres&quot;. Te invita a reflexionar sobre dónde estás parado en este momento de tu vida. Los resultados son un espejo, no un veredicto.
+Implicaciones concretas:
+En lugar de &quot;Tu score en Autonomía es 65/100&quot; → &quot;Parece que a veces sientes que la vida te lleva, más que tú llevarla. ¿Te resuena esto?&quot;
+En lugar de &quot;Área de mejora: Regulación emocional&quot; → &quot;Tus emociones pueden sentirse intensas. Explorar cómo relacionarte con ellas podría darte más paz.&quot;
+Los resultados usan preguntas abiertas, no afirmaciones cerradas. Invitan al diálogo interno, no imponen interpretaciones.
+Principio 3: El lenguaje es conversacional, no evaluativo
+Qué significa:
+Evitamos el lenguaje de &quot;evaluación de desempeño&quot;. No usamos términos como &quot;gap&quot;, &quot;déficit&quot;, &quot;competencia insuficiente&quot;, &quot;nivel&quot;, &quot;percentil&quot;. Hablamos como hablaría un amigo sabio, no como hablaría un consultor de RH.
+Implicaciones concretas:
+Usamos &quot;Esferas&quot; y &quot;Capacidads&quot; en lugar de &quot;Áreas&quot; y &quot;Dimensiones&quot; (porque suena menos corporativo, más orgánico).
+Decimos &quot;Tu Base&quot;, &quot;Tu Crecimiento&quot;, &quot;Tus Vínculos&quot;, &quot;Tu Huella&quot; —siempre en segunda persona, siempre posesivo, siempre personal.
+Los botones dicen &quot;Explorar caminos&quot; en lugar de &quot;Ver plan de desarrollo&quot;.
+Principio 4: Las capacidads se viven, no se califican
+Qué significa:
+No buscamos reducir tu complejidad humana a un número. Los scores existen internamente (porque el modelo matemático lo requiere), pero nunca se muestran así al usuario. Lo que ves es una lectura cualitativa de tu momento vital.
+Implicaciones concretas:
+En lugar de mostrar &quot;Propósito: 73/100&quot; → Usamos visualizaciones cualitativas (ej: &quot;Tu sentido de propósito se siente claro en algunos momentos, difuso en otros&quot;).
+No usamos semáforos (rojo/amarillo/verde) ni barras de progreso para representar bienestar humano.
+Los resultados se presentan como narrativa, no como dashboard de métricas.
+Principio 5: El seguimiento es voluntario y privado, no obligatorio ni supervisado
+Qué significa:
+Nadie te dice qué hacer con tus resultados. No hay planes de desarrollo impuestos. No hay supervisión de si hiciste los ejercicios. Tu proceso es tuyo.
+Implicaciones concretas:
+Los recursos son sugerencias, no prescripciones. &quot;Esto podría ayudarte&quot;, no &quot;Debes completar esto&quot;.
+No hay notificaciones tipo &quot;Llevas 3 días sin entrar&quot;. Respetamos tu tiempo y autonomía.
+La plataforma no genera reportes de &quot;quién sí y quién no está usando la herramienta&quot; para RH.
+Principio 6: El valor para la empresa es indirecto y emergente
+Qué significa:
+Human Complex no promete mejorar KPIs corporativos directamente. La premisa es: si inviertes en el bienestar genuino de tus personas, el resto mejora como consecuencia natural. Pero esa mejora no es el objetivo —es el subproducto.
+Implicaciones concretas:
+El pitch a empresas no es &quot;Aumenta productividad 15%&quot;, es &quot;Invierte en personas más plenas, y eso se refleja en todo&quot;.
+Los insights para RH se enfocan en cultura y bienestar colectivo, no en identificar &quot;empleados de bajo rendimiento&quot;.
+Rechazamos features que conviertan la herramienta en mecanismo de vigilancia o control organizacional.
+
+4. Enfoque B2B2E: La Empresa Paga, la Persona se Beneficia
+4.1 Por qué B2B2E y no B2C
+La decisión de enfocar Human Complex en B2B2E (Business-to-Business-to-Employee) no es arbitraria. Surge del análisis de evidencia real:
+Evidencia
+B2B2E
+B2C
+Tracción comercial
+DECLARADA: &quot;Ya se lo vendimos al Teletón completo&quot;
+VERIFICADA: Friends &amp; Family con feedback negativo (~10 de ~30)
+Expertise del equipo
+DECLARADA: Consultoría organizacional
+REQUERIDA: Marketing de consumo masivo, adquisición de usuarios B2C
+Competencia
+Espacio menos saturado para consultoría + plataforma con enfoque humanista
+VIA gratuito, Gallup ($20-50 USD), alta competencia en assessments individuales
+
+4.2 Cómo funciona el modelo (manteniendo los principios humanistas)
+El modelo B2B2E de Human Complex opera en tres niveles, pero el orden de prioridad es claro:
+Nivel 1 (Primario): Experiencia del Empleado
+Este es el beneficiario principal. La persona usa la plataforma para:
+Reflexionar sobre su momento vital a través del modelo 4 Esferas × 8 Capacidads
+Recibir una lectura cualitativa de dónde está parado en cada esfera
+Explorar recursos y prácticas concretas para fortalecer lo que necesite
+Decidir voluntariamente si quiere seguimiento o acompañamiento
+Crítico: Sus datos son privados. Nadie en la organización ve sus resultados individuales.
+Nivel 2 (Transaccional): Venta a la Organización
+La organización compra:
+Licencias de acceso a la plataforma para sus empleados
+Sesiones de onboarding y comunicación interna (opcional)
+Acompañamiento especializado del equipo Human Complex (opcional)
+Crítico: La organización NO compra acceso a datos individuales, no compra control sobre el proceso, no compra reportes de &quot;quién usa y quién no&quot;.
+Nivel 3 (Secundario/Opcional): Insights Organizacionales
+La organización puede recibir (si el empleado lo autoriza):
+Datos agregados y anonimizados sobre tendencias grupales (ej: &quot;El 40% del equipo siente que su propósito laboral no está claro&quot;)
+Recomendaciones sobre cultura organizacional basadas en patrones colectivos
+Acompañamiento del equipo Human Complex para implementar cambios sistémicos
+Crítico: Estos insights son el subproducto, no el producto. El valor primario siempre es para la persona.
+5. Diferenciación: No Competimos con Assessments, Competimos con Indiferencia
+El verdadero competidor de Human Complex no es Gallup, ni VIA, ni ningún otro assessment. Es la idea de que &quot;el desarrollo personal es algo que haces en tu tiempo libre, no algo que tu empresa debería apoyar&quot;.
+Nuestra diferenciación viene de cuatro elementos únicos en combinación:
+5.1 Fundamento científico riguroso
+Pocos competidores pueden argumentar convergencia de seis marcos teóricos validados (SDT, PERMA, Ryff, VIA, Logoterapia, Inteligencia Emocional). La mayoría de assessments se basan en uno o dos frameworks, o peor, en modelos propietarios sin respaldo empírico.
+Human Complex puede defender cada capacidad del modelo con décadas de investigación psicológica.
+5.2 Traducción humanista (no corporativa)
+Tenemos la misma base científica que muchos assessments organizacionales, pero la traducimos en una experiencia centrada en la persona, no en la empresa. Este es nuestro diferenciador clave: rigor científico + lenguaje humano.
+Los usuarios no sienten que están siendo evaluados —sienten que están siendo vistos.
+5.3 Acompañamiento especializado
+No somos solo una plataforma. Somos un equipo de consultores con expertise declarado en desarrollo organizacional que acompaña a las empresas en todo el proceso: onboarding, comunicación interna, interpretación de insights, implementación de cambios culturales.
+Vendemos transformación acompañada, no solo licencias de software.
+5.4 Enfoque sistémico (pero desde lo individual)
+Impactamos en tres niveles simultáneos:
+Individual: La persona crece en autoconocimiento y bienestar
+Equipo: Los insights colectivos mejoran dinámicas relacionales
+Organizacional: Los patrones sistémicos informan cambios culturales
+Pero siempre en ese orden. El individuo primero, el sistema después.
+
+6. Siguientes Pasos
+Con el propósito, fundamento científico, principios humanistas y foco B2B2E definidos, los siguientes entregables deben traducir esta definición estratégica en especificaciones operativas, siempre manteniendo la coherencia con los seis principios de diseño.
+Orden
+Entregable
+Dependencia
+Propósito
+3
+#3 Arquitectura Funcional del MVP
+Este entregable #2
+Traducir el modelo 4×8 en módulos específicos que materialicen los principios humanistas
+4
+#4 User Journey Simplificado
+Entregable #3
+Diseñar la experiencia paso a paso que entrega valor humanista (no evaluativo)
+5
+#5 Versión Corta del Diagnóstico
+Entregables #1 y #2
+Optimizar cuestionario manteniendo validez científica y lenguaje conversacional
+6
+#6 Modelo de Resultados Accionables
+Entregables #1 y #2
+Definir cómo cada capacidad se traduce en reflexiones cualitativas y recursos concretos
+7-8
+#7-8 Especificaciones Técnicas y Plan
+Entregables #3-#6
+Documentación técnica final y plan de implementación
+
+Conclusión
+Human Complex tiene un propósito claro y una posición única en el mercado:
+Ayudar a las personas a florecer como seres humanos, no a rendir más como empleados.
+Este propósito se sostiene sobre:
+Un modelo científicamente validado (4 Esferas × 8 Capacidads con convergencia de 6 frameworks)
+Seis principios de diseño humanista que guían cada decisión
+Un enfoque B2B2E donde la persona es el beneficiario primario
+Una diferenciación clara vs. assessments corporativos tradicionales
+El resto de los entregables deben traducir esta visión en funcionalidades concretas, siempre preguntando: ¿Esto sirve al florecimiento de la persona, o sirve al control de la organización?
+Si la respuesta no es clara, la feature no entra.
+
+Anexos
+Anexo A: Fuentes primarias
+Transcript de reunión de consulta inicial (15 de diciembre de 2025)
+Archivo Excel &quot;INFORMACIÓN GENERAL 8D&quot; con cuestionario, dimensiones y habilidades
+19 PDFs de recursos analizados (tests, guías prácticas, fichas de lectura)
+Feedback verbal del Friends &amp; Family reportado por los fundadores
+Anexo B: Referencias científicas
+Deci, E. L., &amp; Ryan, R. M. (2000). The &quot;what&quot; and &quot;why&quot; of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227-268.
+Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meaning of psychological well-being. Journal of Personality and Social Psychology, 57(6), 1069-1081.
+Seligman, M. E. P. (2011). Flourish: A visionary new understanding of happiness and well-being. New York: Free Press.
+Peterson, C., &amp; Seligman, M. E. P. (2004). Character strengths and virtues: A handbook and classification. New York: Oxford University Press.
+Frankl, V. E. (1946/2006). Man's search for meaning. Boston: Beacon Press.
+Goleman, D. (1995). Emotional intelligence: Why it can matter more than IQ. New York: Bantam Books.
+Anexo C: Referencias de industria
+Crawford, S.D., Couper, M.P., &amp; Lamias, M.J. (2001). Web surveys: Perceptions of burden. Social Science Computer Review, 19(2), 146-162.
+SurveyMonkey (2025). How Long Should A Survey Be? Insights And Best Practices.
+VIA Institute on Character. How is the VIA Survey Different from StrengthsFinder?
+Gallup Organization. CliftonStrengths Technical Report.
+Anexo D: Glosario
+B2B2E: Business to Business to Employee. Modelo donde la empresa compra el producto para sus empleados.
+MVP: Minimum Viable Product. Versión mínima con funcionalidad suficiente para validar hipótesis.
+Esferas: Agrupaciones de alto nivel del modelo 4×8. Equivalente a &quot;áreas&quot; pero con connotación más orgánica, menos corporativa.
+Capacidads: Componentes específicos dentro de cada esfera. Equivalente a &quot;dimensiones&quot; pero con connotación más humana.
+Florecimiento: Concepto de psicología positiva que describe el estado de vivir dentro del rango óptimo de funcionamiento humano (Seligman, 2011).
+
+— Fin del documento —

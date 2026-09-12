@@ -1,0 +1,351 @@
+/* admin-shell.css — sidebar, modales, tablas y tarjetas de gestión (Empresas/Empleados/Evaluaciones) */
+
+.shell { display: flex; min-height: 100vh; }
+
+/* —— Sidebar —— */
+.sidebar {
+  width: 264px;
+  flex-shrink: 0;
+  background: #0d253e;
+  color: #f5ecd6;
+  display: flex;
+  flex-direction: column;
+  padding: 26px 20px 20px;
+  gap: 22px;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+.sidebar-brand { padding: 4px 8px 6px; display: flex; flex-direction: column; gap: 4px; }
+.sidebar-wordmark { font-size: 22px; color: #f5ecd6; letter-spacing: -0.02em; }
+.sidebar-wordmark-sub {
+  font-family: var(--font-ui); font-size: 10px; font-weight: 600;
+  letter-spacing: 0.14em; text-transform: uppercase; color: rgba(245,236,214,0.4);
+}
+
+.sidebar-role {
+  display: flex; align-items: center; gap: 12px;
+  padding: 12px 12px;
+  background: rgba(245,236,214,0.06);
+  border-radius: var(--r-md);
+}
+.sidebar-avatar {
+  width: 36px; height: 36px; border-radius: 50%;
+  background: var(--amber-2, #ff5b2e);
+  color: #0d253e;
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-ui); font-size: 13px; font-weight: 700;
+  flex-shrink: 0;
+}
+.sidebar-role-name { font-family: var(--font-ui); font-size: 14px; font-weight: 600; color: #f5ecd6; }
+.sidebar-role-sub { font-size: 11.5px; color: rgba(245,236,214,0.5); margin-top: 2px; }
+
+.sidebar-nav { flex: 1; display: flex; flex-direction: column; gap: 4px; }
+.nav-group { margin-bottom: 6px; }
+.nav-group-label {
+  font-family: var(--font-ui); font-size: 10px; font-weight: 700;
+  letter-spacing: 0.16em; text-transform: uppercase;
+  color: rgba(245,236,214,0.32);
+  padding: 10px 12px 8px;
+  margin: 0;
+}
+.nav-item {
+  appearance: none; width: 100%; text-align: left;
+  display: flex; align-items: center; gap: 12px;
+  padding: 11px 12px;
+  background: transparent; border: none; border-radius: var(--r-sm);
+  color: rgba(245,236,214,0.68);
+  font-family: var(--font-ui); font-size: 14.5px; font-weight: 500;
+  cursor: pointer; transition: all 160ms ease;
+}
+.nav-item svg { flex-shrink: 0; opacity: 0.85; }
+.nav-item:hover { background: rgba(245,236,214,0.06); color: #f5ecd6; }
+.nav-item.active { background: rgba(255,122,61,0.16); color: #f5ecd6; }
+.nav-item.active svg { color: var(--amber-2, #ff5b2e); opacity: 1; }
+
+.sidebar-foot { padding-top: 12px; border-top: 1px solid rgba(245,236,214,0.1); }
+.sidebar-foot .tweak-radio-track,
+.sidebar-foot label { color: rgba(245,236,214,0.7); }
+
+/* —— Vista Súper Admin (Human Complex) — blanco + azul, rosa como terciario —— */
+.sidebar.hc {
+  background: #ffffff;
+  color: #0f2a4d;
+  border-right: 1px solid rgba(15,42,77,0.1);
+}
+.sidebar.hc .sidebar-brand img { filter: none !important; opacity: 1 !important; }
+.sidebar.hc .sidebar-wordmark-sub { color: rgba(15,42,77,0.42); }
+.sidebar.hc .sidebar-role { background: var(--violet-soft); }
+.sidebar.hc .sidebar-role-name { color: #0f2a4d; }
+.sidebar.hc .sidebar-role-sub { color: rgba(15,42,77,0.5); }
+.sidebar.hc .sidebar-avatar { background: var(--violet); color: #fff; }
+.sidebar.hc .nav-group-label { color: rgba(15,42,77,0.34); }
+.sidebar.hc .nav-item { color: rgba(15,42,77,0.62); }
+.sidebar.hc .nav-item:hover { background: var(--violet-soft); color: #0f2a4d; }
+.sidebar.hc .nav-item.active { background: var(--violet-soft); color: #0f2a4d; }
+.sidebar.hc .nav-item.active svg { color: var(--violet); opacity: 1; }
+.sidebar.hc .sidebar-foot { border-top: 1px solid rgba(15,42,77,0.1); }
+.sidebar.hc .shell-switch { color: rgba(15,42,77,0.5); }
+.sidebar.hc .shell-switch:hover { background: var(--violet-soft); color: #0f2a4d; }
+.sidebar.hc .platform-tag {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-family: var(--font-ui); font-size: 10.5px; font-weight: 700;
+  letter-spacing: 0.1em; text-transform: uppercase; color: var(--rose);
+  background: var(--rose-soft); padding: 4px 10px; border-radius: var(--r-pill);
+  width: fit-content;
+}
+
+/* Contenido de la vista de plataforma: reasigna acentos amber → azul, cream → blanco */
+.hc-theme {
+  --amber: var(--blue); --amber-2: var(--blue-2); --amber-soft: var(--blue-soft);
+  --bg-deep: #f5f8fe; --bg: #f5f8fe; --bg-rise: #eef3fd; --bg-card: #ffffff;
+  --line: rgba(15,42,77,0.12); --line-soft: rgba(15,42,77,0.06);
+  --ink: #0f2a4d; --ink-2: rgba(15,42,77,0.74); --ink-3: rgba(15,42,77,0.52); --ink-4: rgba(15,42,77,0.32);
+}
+.hc-theme .bt-best { color: var(--blue) !important; }
+.hc-theme { --bg-deep: #f4f5fb; --bg: #f4f5fb; --bg-rise: #eeeef9; }
+.hc-card-blue { background: linear-gradient(135deg, rgba(91,79,232,0.08), rgba(91,79,232,0.03)); border-color: rgba(91,79,232,0.16) !important; }
+.hc-card-violet { background: linear-gradient(135deg, rgba(139,92,246,0.10), rgba(139,92,246,0.03)); border-color: rgba(139,92,246,0.18) !important; }
+.hc-dot-blue { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--blue); }
+.hc-dot-violet { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--violet); }
+
+/* —— Enlace para cambiar entre vista de empresa (Origins) y plataforma (Human Complex) —— */
+.shell-switch {
+  display: flex; align-items: center; gap: 8px;
+  padding: 10px 12px; margin-top: 4px;
+  border-radius: var(--r-sm);
+  background: rgba(245,236,214,0.04);
+  color: rgba(245,236,214,0.55);
+  font-family: var(--font-ui); font-size: 12.5px; font-weight: 500;
+  text-decoration: none; cursor: pointer; border: none; width: 100%; text-align: left;
+  transition: all 160ms ease;
+}
+.shell-switch:hover { background: rgba(245,236,214,0.08); color: #f5ecd6; }
+.shell-switch svg { flex-shrink: 0; opacity: 0.7; }
+
+.shell-main { flex: 1; min-width: 0; background: var(--bg-deep); }
+
+/* —— Volver —— */
+.btn-back {
+  appearance: none; background: transparent; border: 1px solid var(--line);
+  border-radius: var(--r-pill); padding: 9px 16px;
+  display: inline-flex; align-items: center; gap: 8px;
+  color: var(--ink-2); font-family: var(--font-ui); font-size: 13.5px; font-weight: 500;
+  cursor: pointer;
+}
+.btn-back:hover { color: var(--ink); border-color: var(--ink-3); }
+
+/* —— Toolbar de secciones CRUD —— */
+.crud-toolbar {
+  display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+  margin-bottom: 22px;
+}
+.segment {
+  display: inline-flex; padding: 4px; gap: 2px;
+  background: var(--bg-rise); border-radius: var(--r-pill);
+  border: 1px solid var(--line-soft);
+}
+.segment button {
+  appearance: none; border: none; background: transparent;
+  padding: 8px 16px; border-radius: var(--r-pill);
+  font-family: var(--font-ui); font-size: 13px; font-weight: 500;
+  color: var(--ink-3); cursor: pointer; white-space: nowrap;
+}
+.segment button.active { background: var(--bg-card); color: var(--ink); box-shadow: var(--shadow-soft); }
+.search-input { max-width: 320px; margin-left: auto; }
+
+/* —— Inputs de texto genéricos (para tablas/formularios, no el .input editorial) —— */
+.text-input, .select {
+  width: 100%;
+  font-family: var(--font-ui);
+  font-size: 14px;
+  padding: 10px 13px;
+  background: var(--bg-rise);
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  color: var(--ink);
+  outline: none;
+}
+.text-input:focus, .select:focus { border-color: var(--amber); }
+.text-input::placeholder { color: var(--ink-4); }
+.textarea { resize: vertical; min-height: 72px; font-family: var(--font-ui); }
+.search-input { padding: 10px 15px; border-radius: var(--r-pill); }
+
+/* —— Tablas de gestión —— */
+.crud-table-wrap { overflow-x: auto; }
+.crud-table { width: 100%; border-collapse: collapse; }
+.crud-table th {
+  text-align: left; font-family: var(--font-ui); font-size: 10.5px; font-weight: 600;
+  letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-4);
+  padding: 0 14px 12px; border-bottom: 1px solid var(--line);
+}
+.crud-table td { padding: 14px; border-bottom: 1px solid var(--line-soft); vertical-align: middle; }
+.crud-co-name { font-family: var(--font-display); font-size: 15.5px; font-weight: 500; color: var(--ink); }
+.crud-co-sub { font-size: 12px; color: var(--ink-3); margin-top: 2px; display: flex; align-items: center; gap: 5px; }
+.crud-dim { font-size: 13px; color: var(--ink-3); }
+.mono-cell { font-family: var(--font-mono); font-size: 12.5px; color: var(--ink-2); }
+.crud-empty { text-align: center; padding: 40px 0 !important; color: var(--ink-4); font-style: italic; font-family: var(--font-display); }
+.tag-neutral {
+  font-family: var(--font-ui); font-size: 11px; font-weight: 500;
+  padding: 4px 10px; border-radius: var(--r-pill);
+  background: var(--line-soft); color: var(--ink-2);
+}
+.crud-person { display: flex; align-items: center; gap: 12px; }
+.crud-avatar {
+  width: 34px; height: 34px; border-radius: 50%;
+  background: var(--bg-rise); border: 1px solid var(--line);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-ui); font-size: 12px; font-weight: 600; color: var(--ink-2);
+  flex-shrink: 0;
+}
+.status-pill[data-status="ok"] { background: rgba(63,181,106,0.14); color: #3f9d63; }
+.status-pill[data-status="off"] { background: var(--line-soft); color: var(--ink-3); }
+.status-pill[data-status="wait"] { background: rgba(245,198,74,0.16); color: #b6913a; }
+
+/* —— Company grid (Empleados) —— */
+.company-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 22px; }
+.company-card { padding: 22px; display: flex; flex-direction: column; gap: 16px; }
+.company-card-head { display: flex; align-items: center; gap: 10px; color: var(--amber); }
+.company-card-name { font-family: var(--font-display); font-size: 18px; font-weight: 500; color: var(--ink); }
+.company-card-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px 10px; }
+.company-card-stats > div { display: flex; flex-direction: column; gap: 3px; }
+.cc-num { font-family: var(--font-display); font-size: 24px; font-weight: 500; letter-spacing: -0.02em; }
+.cc-lbl { font-size: 11px; color: var(--ink-4); font-family: var(--font-ui); }
+
+/* —— Modal —— */
+.modal-overlay {
+  position: fixed; inset: 0; z-index: 200;
+  background: rgba(10, 22, 38, 0.55);
+  backdrop-filter: blur(4px);
+  display: flex; align-items: center; justify-content: center;
+  padding: 24px;
+}
+.modal-card {
+  background: var(--bg-card);
+  border-radius: var(--r-lg);
+  border: 1px solid var(--line-soft);
+  box-shadow: 0 40px 100px -30px rgba(0,0,0,0.5);
+  width: 100%;
+  max-height: 88vh;
+  overflow-y: auto;
+  padding: 30px 32px 28px;
+}
+.modal-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; margin-bottom: 6px; }
+.modal-title {
+  font-family: var(--font-display); font-size: 22px; font-weight: 500;
+  letter-spacing: -0.015em; color: var(--ink); margin: 0;
+  display: flex; align-items: center; gap: 10px;
+}
+.modal-subtitle { font-size: 13.5px; color: var(--ink-3); margin: 8px 0 0; max-width: 46ch; line-height: 1.45; }
+.modal-close {
+  appearance: none; background: transparent; border: none; color: var(--ink-3);
+  cursor: pointer; padding: 6px; border-radius: var(--r-sm); flex-shrink: 0;
+}
+.modal-close:hover { color: var(--ink); background: var(--line-soft); }
+.modal-body { margin-top: 18px; }
+.modal-tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin: 18px 0 22px; }
+.modal-tabs button {
+  appearance: none; background: transparent; border: none;
+  padding: 10px 4px; margin-right: 22px;
+  font-family: var(--font-ui); font-size: 13.5px; font-weight: 500;
+  color: var(--ink-3); cursor: pointer; border-bottom: 2px solid transparent;
+}
+.modal-tabs button.active { color: var(--ink); border-bottom-color: var(--amber); }
+.modal-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.field { display: flex; flex-direction: column; gap: 7px; }
+.field-label { font-family: var(--font-ui); font-size: 12.5px; font-weight: 600; color: var(--ink-2); }
+.modal-actions { display: flex; justify-content: flex-end; gap: 12px; margin-top: 26px; }
+.modal-actions .btn { padding: 11px 20px; font-size: 14px; }
+.detail-static { margin: 0; font-family: var(--font-display); font-size: 15.5px; color: var(--ink); }
+.info-callout {
+  display: flex; gap: 10px; padding: 14px 16px; margin-top: 6px;
+  background: var(--p-proposito-soft); border-radius: var(--r-md);
+  color: var(--ink-2); font-size: 13px; line-height: 1.4;
+}
+.info-callout p { margin: 0; }
+
+/* —— Evaluaciones: badges, grid de tarjetas, lista de asignados —— */
+.eval-badge {
+  font-family: var(--font-ui); font-size: 10.5px; font-weight: 600;
+  letter-spacing: 0.04em; padding: 4px 11px; border-radius: var(--r-pill);
+  white-space: nowrap;
+}
+.eval-badge[data-estado="activa"] { background: rgba(63,181,106,0.14); color: #3f9d63; }
+.eval-badge[data-estado="pendiente"] { background: rgba(245,198,74,0.18); color: #b6913a; }
+.eval-badge[data-estado="expirada"] { background: rgba(255,107,84,0.14); color: #d85c46; }
+.eval-badge[data-estado="inactiva"] { background: var(--line-soft); color: var(--ink-3); }
+
+.eval-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 20px; }
+.eval-card { padding: 20px; cursor: pointer; transition: all 200ms ease; }
+.eval-card:hover { border-color: var(--ink-3); background: var(--bg-rise); }
+.eval-card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin-bottom: 16px; }
+.eval-card-rows { display: flex; flex-direction: column; gap: 8px; }
+.eval-card-rows > div { display: flex; justify-content: space-between; font-size: 12.5px; }
+.eval-card-rows span { color: var(--ink-4); }
+.eval-card-rows b { color: var(--ink-2); font-weight: 500; }
+.eval-card-rows b.progreso-pos { color: #3f9d63; }
+
+.assignee-list { display: flex; flex-direction: column; gap: 14px; max-height: 320px; overflow-y: auto; padding-right: 4px; }
+.assignee-row { background: var(--bg-rise); border-radius: var(--r-md); padding: 14px 16px; }
+.assignee-top { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+.assignee-name { font-family: var(--font-display); font-size: 15px; font-weight: 500; color: var(--ink); flex: 1; }
+.assignee-x {
+  appearance: none; background: transparent; border: none; color: var(--ink-4);
+  cursor: pointer; padding: 4px; border-radius: 50%; flex-shrink: 0;
+}
+.assignee-x:hover { color: var(--lvl-desequilibrio); background: rgba(255,107,84,0.1); }
+.assignee-track { height: 7px; border-radius: 7px; background: var(--line-soft); overflow: hidden; }
+.assignee-bar { height: 100%; background: var(--amber); border-radius: 7px; transition: width 400ms ease; }
+.assignee-pct { display: block; text-align: right; font-size: 11.5px; color: var(--ink-4); margin-top: 5px; font-family: var(--font-mono); }
+
+/* —— Pantalla de login (Origins) —— */
+.login-screen.split { min-height: 100vh; display: grid; grid-template-columns: 1.1fr 1fr; }
+.login-cover {
+  background: #0a1626; color: #f5ecd6; display: flex; align-items: center; justify-content: center; padding: 60px;
+  position: relative; overflow: hidden;
+}
+.login-cover-inner { display: flex; flex-direction: column; align-items: center; gap: 28px; max-width: 420px; text-align: center; --ink: #FBF7EF; --ink-3: rgba(245,236,214,0.55); --line: rgba(245,236,214,0.18); }
+.login-cover-title { font-size: 44px; color: #f5ecd6; margin: 0; letter-spacing: -0.03em; }
+.login-cover-copy { font-family: var(--font-ui); font-size: 15px; line-height: 1.6; color: rgba(245,236,214,0.68); margin: 12px 0 0; }
+.login-cover-points { list-style: none; display: flex; gap: 18px; flex-wrap: wrap; justify-content: center; padding: 0; margin: 4px 0 0; }
+.login-cover-points li { display: flex; align-items: center; gap: 7px; font-family: var(--font-ui); font-size: 12.5px; font-weight: 500; color: rgba(245,236,214,0.75); }
+.login-form-side { display: flex; align-items: center; justify-content: center; padding: 40px; background: var(--bg-deep); }
+.login-card {
+  width: 100%; max-width: 380px; background: var(--bg-card);
+  border: 1px solid var(--line-soft); border-radius: var(--r-lg);
+  box-shadow: var(--shadow-rise); padding: 40px 36px;
+}
+.login-brand { display: flex; flex-direction: column; gap: 4px; margin-bottom: 28px; }
+.login-form { display: flex; flex-direction: column; gap: 16px; }
+.login-error { color: var(--lvl-desequilibrio); font-size: 13px; margin: 0; }
+@media (max-width: 860px) {
+  .login-screen.split { grid-template-columns: 1fr; }
+  .login-cover { display: none; }
+}
+
+/* —— Perfil de empresa (Origins · Inicio) —— */
+.company-profile { padding: 26px 28px; display: flex; flex-direction: column; gap: 20px; }
+.company-profile-head { display: flex; align-items: center; gap: 14px; }
+.company-profile-name { font-family: var(--font-display); font-size: 24px; font-weight: 500; color: var(--ink); }
+.company-profile-sub { font-size: 13px; color: var(--ink-3); margin-top: 2px; }
+.company-profile-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px 24px; }
+.company-profile-grid div { display: flex; flex-direction: column; gap: 4px; }
+.cp-label { font-family: var(--font-ui); font-size: 10.5px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-4); }
+.cp-val { font-family: var(--font-display); font-size: 15.5px; color: var(--ink); }
+
+/* —— Tablero de invitaciones —— */
+.invite-summary { display: flex; gap: 22px; flex-wrap: wrap; margin-bottom: 4px; }
+.invite-summary-item { display: flex; align-items: baseline; gap: 8px; }
+.invite-summary-num { font-family: var(--font-display); font-size: 22px; font-weight: 500; }
+.invite-summary-lbl { font-size: 12.5px; color: var(--ink-4); }
+
+@media (max-width: 1100px) {
+  .company-grid, .eval-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 900px) {
+  .sidebar { position: fixed; z-index: 90; transform: translateX(-100%); }
+  .modal-grid { grid-template-columns: 1fr; }
+  .company-grid, .eval-grid { grid-template-columns: 1fr; }
+  .company-profile-grid { grid-template-columns: repeat(2, 1fr); }
+}

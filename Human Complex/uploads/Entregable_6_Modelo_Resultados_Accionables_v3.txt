@@ -1,0 +1,239 @@
+
+HUMAN COMPLEX
+ENTREGABLE 6
+Modelo de Resultados Accionables
+Versión 3.0 · Marzo 2026
+
+1. Principio del Modelo
+Este documento define cómo se traducen los resultados del diagnóstico Human Complex (63 preguntas, 4 pilares, 11 esferas) en interpretaciones claras y acciones concretas. El modelo está diseñado para provocar consciencia y generar transformación, no para etiquetar al usuario.
+&quot;El cambio no ocurre por entender. Ocurre por sostener.&quot;
+El sistema no busca que el usuario &quot;salga bien&quot;. Busca que observe cómo está operando realmente y tome decisiones desde esa claridad.
+2. Escala de Interpretación
+El resultado de cada esfera y pilar se expresa en una escala de 1.00 a 5.00, con cinco niveles de interpretación cualitativa:
+Rango
+Nivel
+Interpretación
+1.00 – 1.99
+Fragmentación estructural
+Hay dificultad para sostener comportamientos y decisiones de forma coherente. El funcionamiento depende fuertemente del contexto o del momento.
+2.00 – 2.99
+Inestabilidad conductual
+Hay intención, pero falta consistencia. Las conductas positivas aparecen de forma intermitente y no se sostienen ante presión o cambio.
+3.00 – 3.79
+Funcionamiento funcional
+El desempeño es adecuado en condiciones normales. Sin embargo, bajo estrés o fuera de rutina, la coherencia puede romperse.
+3.80 – 4.49
+Coherencia consolidada
+Existe alineación clara entre lo que la persona piensa, siente y hace. Puede sostener conductas incluso bajo presión moderada.
+4.50 – 5.00
+Integración madura
+La persona funciona con consistencia sostenida, genera impacto positivo en su entorno y es capaz de influir constructivamente en otros.
+3. Patrones Clave de Diagnóstico
+Además del nivel numérico, el sistema identifica patrones transversales que revelan dinámicas importantes en el funcionamiento del usuario:
+Patrón
+Definición
+Señal para el Usuario
+Desalineación
+Tienes fortalezas que no estás sosteniendo de forma integral
+Hay recursos internos que no se están aplicando consistentemente
+Falsa estabilidad
+El promedio parece adecuado, pero existe una debilidad crítica
+Un área baja puede estar comprometiendo el funcionamiento general
+Dispersión
+Tu desempeño depende del contexto
+No hay estabilidad; los resultados varían según la situación
+Consistencia
+Existe equilibrio entre todas las áreas
+El funcionamiento es estable y predecible
+
+4. Estructura de Presentación de Resultados
+Los resultados se presentan en tres niveles de profundidad:
+4.1 Resultados por Esfera (Nivel de Detalle)
+Cada una de las 11 esferas recibe un puntaje promedio con su interpretación cualitativa. Este es el nivel más granular y permite identificar áreas específicas de oportunidad.
+Ejemplo: &quot;Autoconocimiento: 3.45 – Funcionamiento funcional. El desempeño es adecuado en condiciones normales.&quot;
+4.2 Resultado por Pilar (Nivel de Integración)
+Cada pilar integra el promedio de sus esferas componentes. Permite ver la salud general de cada dimensión.
+Ejemplo: &quot;Mi Base: 3.62 – Tu base está funcionando, pero depende del contexto.&quot;
+4.3 Resultado Global (Nivel de Consistencia)
+El promedio general de los 4 pilares indica el nivel de consistencia integral del usuario. No es un &quot;puntaje final&quot; sino un indicador de equilibrio sistémico.
+5. Modelo de Acciones por Nivel
+Cada nivel de resultado genera una orientación específica hacia la acción. El enfoque es siempre hacia la esfera más baja, donde está la mayor oportunidad de mejora.
+Nivel
+Orientación al Usuario
+Tipo de Acción Sugerida
+1
+Existe una ruptura importante que requiere atención prioritaria
+Identificar una conducta básica y repetirla diariamente hasta estabilizar
+2
+Hay intención pero falta consistencia; el patrón no está consolidado
+Elegir UNA acción y sostenerla 21 días antes de agregar otra
+3
+El funcionamiento es adecuado pero vulnerable bajo presión
+Diseñar rituales para contextos de estrés específicos
+4
+Existe coherencia; el reto es expandir el impacto
+Identificar cómo influir positivamente en otros desde esta fortaleza
+5
+La integración es madura; el foco está en la sostenibilidad
+Documentar las prácticas que funcionan y enseñarlas a otros
+6. Principios de Recomendación
+Las recomendaciones del sistema siguen estos principios:
+Foco en lo más bajo: No necesitas cambiar todo. Empieza por la esfera más baja. Ahí está la mayor oportunidad de mejora.
+Acción sobre comprensión: El cambio no ocurre por entender. Ocurre por sostener.
+Repetición sobre motivación: Selecciona una acción concreta y repítela hasta que deje de depender de tu motivación.
+Medición como transformación: Este diagnóstico tiene valor cuando se repite. Permite observar evolución, consistencia y cambio real.
+
+7. Sistema de Seguimiento por Etapas
+El seguimiento está diseñado para mantener al usuario conectado con su proceso de desarrollo sin ser invasivo. Se implementa en tres etapas progresivas, cada una con un canal de comunicación específico que incrementa la inmediatez y proximidad del contacto.
+7.1 Visión General del Modelo
+Etapa
+Canal
+Disponibilidad
+Propósito
+1
+Email
+MVP (incluido desde inicio)
+Recordatorios, resultados, invitaciones a re-diagnóstico
+2
+WhatsApp
+Activación por cliente
+Seguimiento conversacional, micro-intervenciones
+3
+Push Notifications
+Activación por cliente
+Recordatorios contextuales, alertas de acción
+7.2 Etapa 1: Seguimiento por Email (MVP)
+El correo electrónico es el canal base del sistema de seguimiento. Está incluido en el MVP y no requiere configuración adicional por parte del cliente.
+Casos de Uso
+Tipo de Comunicación
+Contenido
+Bienvenida
+Confirmación de registro + link al diagnóstico + contexto de confidencialidad
+Resultados
+Resumen del diagnóstico + link a resultados completos + esfera prioritaria
+Recordatorio de acción
+Refuerzo de la acción sugerida a los 7, 14 y 21 días post-diagnóstico
+Invitación a re-diagnóstico
+Invitación a repetir el diagnóstico a los 30, 60 y 90 días
+Evolución
+Comparativo entre diagnósticos cuando existe historial
+Principios de Diseño
+Frecuencia controlada: Máximo 1 email por semana para evitar fatiga
+Tono provocativo: Consistente con la filosofía HC, no motivacional genérico
+Accionable: Cada email tiene un CTA claro y único
+Opt-out visible: El usuario puede desuscribirse en cualquier momento
+7.3 Etapa 2: Seguimiento por WhatsApp (Activación por Cliente)
+WhatsApp añade inmediatez y un tono más personal al seguimiento. Se activa cuando el cliente organizacional decide implementar esta capa adicional de acompañamiento.
+Casos de Uso
+Tipo de Comunicación
+Contenido
+Micro-recordatorios
+Mensajes breves de refuerzo: &quot;¿Hoy sostuviste tu acción?&quot;
+Check-in semanal
+Pregunta abierta sobre avance en la esfera prioritaria
+Celebración de hitos
+Reconocimiento al completar 7, 14, 21 días de acción sostenida
+Provocaciones contextuales
+Preguntas reflexivas relacionadas con la esfera de trabajo
+Invitación conversacional
+Link a re-diagnóstico con contexto personalizado
+Principios de Diseño
+Conversacional, no corporativo: El tono es directo y personal, como un coach
+Respeta horarios: Solo envíos entre 8am-8pm hora local del usuario
+Opt-in explícito: El usuario debe aceptar recibir mensajes por este canal
+Bidireccional: Permite respuestas del usuario (aunque no se espera conversación extensa)
+Requisitos de Activación
+Cliente contrata el módulo de seguimiento WhatsApp
+Integración con WhatsApp Business API configurada
+Usuarios aceptan opt-in durante el flujo de diagnóstico
+
+7.4 Etapa 3: Push Notifications (Activación por Cliente)
+Las notificaciones push ofrecen el mayor nivel de inmediatez y permiten intervenciones en tiempo real. Se activan cuando el cliente decide implementar la app móvil o web app con capacidades de notificación.
+Casos de Uso
+Tipo de Notificación
+Contenido
+Recordatorio de acción diaria
+Alerta en horario elegido por usuario: &quot;Es momento de tu práctica&quot;
+Provocación matutina
+Pregunta reflexiva al inicio del día relacionada con su esfera
+Check de cierre
+&quot;¿Cómo estuvo tu día respecto a [esfera]?&quot; con respuesta rápida (1-5)
+Alerta de racha
+&quot;Llevas 7 días sosteniendo tu práctica&quot; o &quot;Tu racha se rompió ayer&quot;
+Invitación a re-diagnóstico
+Cuando se cumple el período sugerido desde último diagnóstico
+Insight personalizado
+Observaciones basadas en patrones de uso: &quot;Has mejorado consistencia en X&quot;
+Principios de Diseño
+Ultra-breve: Máximo 100 caracteres por notificación
+Contextual: Basado en la esfera de trabajo actual del usuario
+Configurable: El usuario elige frecuencia y horarios preferidos
+Inteligente: Reduce frecuencia si el usuario no interactúa
+Sin spam: Máximo 2 notificaciones por día
+Requisitos de Activación
+Cliente contrata desarrollo de app móvil o PWA con notificaciones
+Infraestructura de push configurada (Firebase, OneSignal, etc.)
+Usuarios aceptan permisos de notificación en sus dispositivos
+7.5 Escalamiento Progresivo
+Las etapas se implementan de forma aditiva, no sustitutiva. Cada canal complementa al anterior:
+Configuración
+Email
+WhatsApp
+Push
+Solo Etapa 1
+✓ Activo
+— No disponible
+— No disponible
+Etapas 1+2
+✓ Activo
+✓ Activo
+— No disponible
+Etapas 1+2+3
+✓ Activo
+✓ Activo
+✓ Activo
+El email siempre permanece como canal base para comunicaciones formales (resultados, comparativos, reportes). Los canales adicionales se enfocan en el acompañamiento del día a día.
+
+8. Acciones Sugeridas por Esfera
+Cada esfera tiene acciones específicas asociadas según su naturaleza. Estas acciones se activan cuando la esfera es identificada como la más baja del usuario.
+Pilar 1: Mi Base
+Esfera
+Acción Concreta Sugerida
+Autoconocimiento
+Antes de cada decisión importante, escribe: ¿Qué emoción estoy sintiendo? ¿Qué valor quiero honrar?
+Regulación Emocional
+Cuando sientas presión, pausa 10 segundos antes de responder. Nombra la emoción en silencio.
+Bienestar Físico
+Define UNA señal física que ignorabas y atiéndela esta semana sin negociar.
+Pilar 2: Mi Propósito
+Esfera
+Acción Concreta Sugerida
+Sentido de Vida
+Escribe tus 3 valores no negociables. Revisa si tus acciones de la semana los honraron.
+Autonomía
+Identifica un compromiso contigo que incumples repetidamente. Cúmplelo esta semana.
+Trascendencia
+Antes de cada decisión, pregúntate: ¿Cómo impacta esto a alguien más?
+Pilar 3: Mi Conexión
+Esfera
+Acción Concreta Sugerida
+Intrapersonal
+Cuando cometas un error, escribe qué te dirías si fueras tu mejor amigo.
+Extrapersonal
+En tu próxima conversación difícil, escucha 2 minutos completos antes de responder.
+Pilar 4: Mi Impacto
+Esfera
+Acción Concreta Sugerida
+Contribución
+Esta semana, haz una contribución que nadie te pidió y que no te beneficia directamente.
+Liderazgo Personal
+Identifica una confrontación que has evitado. Abórdala esta semana con respeto.
+Visión Estratégica
+Antes de tu próxima decisión importante, escribe las consecuencias a 6 meses.
+9. Nota Final
+&quot;Sin seguimiento, solo es información. Con seguimiento, se convierte en transformación.&quot;
+El valor de este modelo no está en el número que arroja, sino en la claridad que genera y la acción que provoca. El sistema de seguimiento por etapas asegura que esa claridad se sostenga en el tiempo.
+
+
+— Fin del Entregable 6 —
+Versión 3.0 · Marzo 2026

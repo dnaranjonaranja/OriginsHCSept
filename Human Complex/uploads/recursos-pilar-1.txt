@@ -1,0 +1,146 @@
+ESPECIFICACIÓN DE EXPERIENCIA DE USUARIO (UX)
+Plan de Acción Personalizado
+Pilar 1 · Mi Base
+Esfera 1 · Autoconocimiento
+Objetivo de esta pantalla
+Una vez que el usuario obtiene sus resultados del diagnóstico, la plataforma debe generar un Plan de Acción Personalizado, mostrando recursos prácticos que le permitan comenzar inmediatamente su proceso de desarrollo.
+Cada sección ya está definida
+Estructura de la pantalla
+1. Encabezado
+Debe mostrarse:
+Pilar 1: Mi Base
+Esfera: Autoconocimiento
+Texto introductorio:
+Con base en tus resultados, este es el primer paso para fortalecer tu autoconocimiento. No necesitas hacerlo todo hoy. Comienza con pequeñas acciones y permite que el proceso ocurra poco a poco.
+Mensaje de apertura
+Mostrar una tarjeta destacada (visual emocional).
+Título: Antes de comenzar...
+Contenido: No eres tus reacciones, tus miedos ni tus viejas estrategias. Muchas de ellas nacieron para protegerte. El autoconocimiento comienza cuando dejas de juzgarte y empiezas a comprenderte. Porque aquello que puedes observar, también puedes transformarlo.
+Al final una leyenda:
+Este desarrollo está basado en investigaciones y aportaciones de:
+Daniel Kahneman
+Aaron Beck
+Carl Jung
+John Bowlby
+Gabor Maté
+Viktor Frankl
+James Clear
+Robert Kegan
+(Los autores pueden mostrarse en un acordeón desplegable para no saturar la interfaz.)
+Microhábito Diario
+Al final del día dedica tres minutos a completar:Hoy me sentí ____________ cuando ____________.Mi reacción fue ____________.Creo que estaba intentando proteger ____________.La próxima vez me gustaría responder desde ____________.
+Antes de reaccionar recuerda:• ¿Qué estoy sintiendo?• ¿Esta reacción me resulta familiar?• ¿Qué parte de mí está intentando protegerse?No intentes corregirte. Primero comprende.
+Tu reto de 7 días
+Tu reto de 7 días
+Contenido:
+Descubriendo mis patrones
+Durante siete días registra una situación emocionalmente significativa.
+Cada día el usuario responderá:
+¿Qué ocurrió?
+¿Qué sentí?
+¿Cómo reaccioné?
+¿Qué necesidad o miedo estaba presente?
+¿Cómo me hubiera gustado responder?
+Al completar los siete días responde a la siguiente reflexión
+Hoy comprendo que muchas de mis reacciones buscan proteger:
+Botón:
+✓ Marcar como realizado
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="1510" w:type="dxa"/><w:tcBorders><w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tcBorders><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="7E9D578E" w14:textId="6820FDFA" w:rsidR="00540344" w:rsidRPr="00540344" w:rsidRDefault="00540344" w:rsidP="00540344"><w:pPr><w:rPr><w:b/><w:bCs/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:bCs/></w:rPr><w:lastRenderedPageBreak/><w:t>Libros recomendados
+Los 7 Hábitos (Covey)
+Mindset (Dweck)
+Pensar rápido, pensar despacio (Kahneman)
+TED Talks recomendadas
+1. The Power of Believing That You Can Improve
+Ponente: Carol Dweck
+Tema principal: La mentalidad de crecimiento y cómo nuestras creencias influyen en el desarrollo personal.
+https://www.youtube.com/watch?v=_X0mgOOSpLU&t=22s
+2. Herramientas para descubrir nuestra identidad
+Ponente: Alejandra Espinoza
+Tema principal: El autoconocimiento como resultado de cambiar la forma en que observamos nuestro entorno y a nosotros mismos.
+https://www.ted.com/talks/herramientas_para_descubrir_nuestra_identidad
+Cápsula de aprendizaje
+Esta tarjeta debe mostrarse como un contenido corto (microlearning).
+Título:
+Mi valía personal, construyendo mi confianza
+Botón:
+▶ Ver cápsula
+La cápsula puede abrir un video, audio o contenido interactivo, sin abandonar la ruta del usuario.
+PILAR 1: MI BASE
+ESFERA 2: REGULACIÓN EMOCIONAL
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblBorders><w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tblBorders><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="1127"/><w:gridCol w:w="38"/><w:gridCol w:w="7663"/></w:tblGrid><w:tr w:rsidR="00540344" w:rsidRPr="00540344" w14:paraId="57AE6792" w14:textId="77777777" w:rsidTr="00540344"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:gridSpan w:val="2"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w14:paraId="3518CEC0" w14:textId="77777777" w:rsidR="00540344" w:rsidRPr="00540344" w:rsidRDefault="00540344" w:rsidP="003143B7"><w:pPr><w:jc w:val="center"/><w:rPr><w:b/><w:bCs/></w:rPr></w:pPr><w:r w:rsidRPr="00540344"><w:rPr><w:b/><w:bCs/></w:rPr><w:t>Elemento
+Desarrollo
+Base teórica
+James Gross (Emotion Regulation), Lisa Feldman Barrett (Emociones construidas), Susan David (Agilidad emocional), Marsha Linehan (DBT), Brené Brown (Lenguaje emocional y vulnerabilidad).
+Arquitectura profunda
+1. Conciencia: Desarrollar la capacidad de identificar y nombrar lo que se siente.2. Significado: Comprender qué valor, límite o necesidad está siendo afectado.3. Aprendizaje: Reconocer que las emociones contienen información útil sobre nosotros mismos.4. Acción: Elegir una respuesta más consciente y coherente con nuestros valores.5. Identidad: Construir una relación más saludable y madura con el mundo emocional.
+Acción Conductual
+Haz una pausa antes de reaccionar. Cuando una emoción intensa aparezca, pregúntate:• ¿Qué estoy sintiendo?• ¿Qué necesito en este momento?• ¿Qué puedo aprender de esto?• ¿Qué puedo hacer diferente?• ¿Quién quiero ser ante esta situación?No busques dejar de sentir. Busca comprender antes de responder.
+Microhábito Diario
+Dedica tres minutos al final del día para completar:Hoy me sentí ____________.Lo que más necesitaba era ____________.Esto me enseñó ____________.La próxima vez me gustaría responder con ____________.El objetivo no es juzgarte, sino conocerte mejor.
+Reto 7 días
+### "Escuchar antes de reaccionar"Durante siete días identifica una emoción importante cada día y responde:1. ¿Qué me está pasando?2. ¿Qué necesito?3. ¿Qué puedo aprender?4. ¿Qué puedo hacer diferente?5. ¿Quién quiero ser ante esta situación?Al finalizar la semana pregúntate:¿Hay alguna emoción que normalmente trato de ignorar, esconder o controlar?¿Qué cambiaría si aprendiera a escucharla en lugar de pelear con ella?
+Pregunta de Reflexión
+¿Hay alguna emoción que normalmente trato de ocultar o evitar, y qué podría cambiar en mi vida si aprendiera a escucharla con mayor comprensión?
+Mensaje UX
+Tus emociones no están en tu contra. Son señales que te ayudan a comprender qué es importante para ti, qué necesitas y qué merece tu atención. La fortaleza emocional no consiste en dejar de sentir, sino en aprender a escuchar, comprender y responder con mayor conciencia.
+Libros
+Inteligencia Emocional (Goleman)
+El arte de no amargarse la vida (Santandreu)
+Tranquilos y atentos (Snel)
+TED TALKS
+The Gift and Power of Emotional Courage
+Ponente: Susan David
+Tema principal: Desarrollar agilidad emocional para reconocer, aceptar y gestionar las emociones sin evitarlas ni dejar que controlen nuestras decisiones.
+https://www.ted.com/talks/susan_david_the_gift_and_power_of_emotional_courage
+2. La inteligencia emocional sí se puede entrenar
+Ponente: Elsa Punset
+Tema principal: Comprender cómo entrenar habilidades emocionales para responder con mayor equilibrio, empatía y autocontrol frente a los desafíos cotidianos.
+https://www.youtube.com/results?search_query=Elsa+Punset+TEDx+inteligencia+emocional
+Recurso adicional
+Guía: Explorando tus emociones
+Guía: "Técnicas de regulación emocional"
+Capsula
+Conoce y entiende tus emociones
+Regula tus emociones efectivamente
+PILAR 1 – MI BASE
+ESFERA 3 – BIENESTAR FÍSICO
+Elemento
+Desarrollo
+Base teórica
+El bienestar físico es la capacidad de sentir energía estable, descansar bien y mantener un cuerpo que funciona de manera adecuada en la vida diaria. No se trata solo de hacer ejercicio, sino de cuidar hábitos básicos como el sueño, el movimiento, la alimentación y el manejo del estrés. Un cuerpo cuidado permite pensar mejor, sentirte mejor y vivir con más equilibrio.
+Arquitectura profunda
+Cuerpo → Energía → Hábitos → Equilibrio → Bienestar sostenido Todo comienza en el cuerpo. Cuando el cuerpo está bien, la energía mejora. Cuando la energía mejora, los hábitos se vuelven más fáciles. Y cuando los hábitos son constantes, se construye un bienestar estable en el tiempo.
+Acción conductual
+Observa tu cuerpo antes de exigirte más. Pregúntate durante el día: • ¿Cómo me siento físicamente hoy?• ¿Tengo energía o estoy cansado?• ¿Qué necesita mi cuerpo en este momento?Después elige una acción simple: descansar, moverte, hidratarte o bajar el ritmo.
+Microhábito diario
+Al final del día dedica 3 minutos a revisar: • ¿Cómo estuvo mi energía hoy?• ¿Dormí bien?• ¿Me moví durante el día?• ¿Cómo estuvo mi nivel de estrés?• ¿Qué ayudó o afectó más a mi cuerpo hoy?
+Reto 7 días
+Durante 7 días enfócate en observar tu bienestar físico sin juzgarlo: 1. Horas de sueño2. Nivel de energía (alto, medio o bajo)3. Movimiento físico diario (sí o no)4. Nivel de estrés (bajo, medio o alto)Al final responde: ¿Qué hábitos me dan energía y cuáles me la quitan?
+Pregunta de reflexión
+¿Estoy cuidando mi cuerpo para vivir mejor o solo lo estoy usando hasta que se agota?
+Mensaje UX
+Tu cuerpo es la base de todo lo que haces cada día. No es una herramienta que deba rendir sin descanso, es el lugar donde vives tu vida. Cuidarlo no es una tarea extra, es una forma de cuidarte a ti mismo.
+Libros
+Por qué dormimos.
+Matthew Walker
+El lado positivo del estrés (The Upside of Stress).
+Kelly McGonigal
+El poder del movimiento.
+Kelly McGonigal
+Outlive: La ciencia y el arte de la longevidad.
+Peter Attia
+Las zonas azules.
+Dan Buettner
+<w:tblPrEx><w:tblBorders><w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/></w:tblBorders></w:tblPrEx><w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:tcBorders><w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tcBorders><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="29C611FA" w14:textId="77777777" w:rsidR="0054426E" w:rsidRDefault="0054426E" w:rsidP="00D122CA"><w:pPr><w:rPr><w:b/><w:bCs/></w:rPr></w:pPr><w:r w:rsidRPr="007941B7"><w:rPr><w:b/><w:bCs/></w:rPr><w:t>TED TALKS
+How to Live to Be 100+
+Ponente: Dan Buettner
+Tema principal: Los hábitos de las "Zonas Azules" para vivir más y mejor: alimentación, movimiento natural, propósito y comunidad.
+https://www.ted.com/talks/dan_buettner_how_to_live_to_be_100
+2. What Makes Us Feel Good About Our Work?
+Ponente: Dan Ariely
+Tema principal: Con un enroque laboral, muestra cómo los hábitos, el bienestar y la motivación impactan la energía y la salud integral.
+https://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work
+Recursos adicionales
+PDF: "Guía de autocuidado físico y mental"
+Capsula
+Límites saludables
